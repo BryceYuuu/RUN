@@ -1,0 +1,829 @@
+{
+ "spain": [
+  {
+   "id": "spain-non-lucrative-visa",
+   "name": "西班牙非营利居留（No Lucrativa / NLV）",
+   "type": "passive",
+   "summary": "靠被动收入或存款在西班牙生活、不工作的居留；门槛比数字游民签证低，但不能做任何工作（含远程）。",
+   "facts": [
+    [
+     "主申请人",
+     "IPREM 400% = EUR 2,400/月（EUR 28,800/年）"
+    ],
+    [
+     "每位家属",
+     "+EUR 600/月（IPREM 100%）"
+    ],
+    [
+     "夫妻",
+     "EUR 3,000/月；夫妻+1 孩 3,600；+2 孩 4,200"
+    ],
+    [
+     "工作",
+     "❌ 不允许（含远程工作）"
+    ],
+    [
+     "首次",
+     "1 年"
+    ],
+    [
+     "续签",
+     "每次 2 年，需每年在西班牙住 >183 天"
+    ],
+    [
+     "保险",
+     "无免赔额的私人医保"
+    ]
+   ],
+   "fit": [
+    "有租金、股息、养老金等被动收入或足额存款",
+    "退休或半退休人士"
+   ],
+   "unfit": [
+    "需要继续上班（含远程）——应走数字游民签证"
+   ],
+   "steps": [
+    [
+     "准备资金证明",
+     "被动收入或存款，按家庭人数计算"
+    ],
+    [
+     "买私人医保",
+     "西班牙保险公司、无免赔额"
+    ],
+    [
+     "领馆递交",
+     "附无犯罪证明、体检证明"
+    ],
+    [
+     "入境后 1 个月内办 TIE",
+     ""
+    ],
+    [
+     "续签",
+     "第 1 年后续 2 年"
+    ]
+   ],
+   "docs": [
+    "护照、申请表 EX-01",
+    "资金或被动收入证明",
+    "私人医疗保险",
+    "无犯罪证明（认证 + 翻译）",
+    "医疗证明",
+    "790-052 缴费凭证"
+   ],
+   "tips": [
+    "IPREM 自 2023 年冻结在 EUR 600/月，以领馆当年要求为准",
+    "很多人误以为可以远程工作——不行"
+   ],
+   "sources": [
+    [
+     "Costa Luz Lawyers: IPREM 2026 for NLV",
+     "https://www.costaluzlawyers.com/resources/iprem-non-lucrative-visa-2026/"
+    ],
+    [
+     "Immigrant Invest: Spain NLV 2026",
+     "https://immigrantinvest.com/blog/spain-non-lucrative-visa/"
+    ]
+   ]
+  }
+ ],
+ "portugal": [
+  {
+   "id": "portugal-d7-visa",
+   "name": "葡萄牙 D7 被动收入签证",
+   "type": "passive",
+   "summary": "被动收入达到最低工资（EUR 920/月）即可申请，是欧洲门槛最低的长期居留之一。",
+   "facts": [
+    [
+     "主申请人",
+     "被动收入 ≥ EUR 920/月（2026 最低工资）"
+    ],
+    [
+     "家属",
+     "第二位成人 +50%（EUR 460），每个孩子 +30%（EUR 276）"
+    ],
+    [
+     "存款",
+     "常见要求 1 年最低工资 EUR 11,040"
+    ],
+    [
+     "收入来源",
+     "养老金、租金、股息、利息、知识产权等"
+    ],
+    [
+     "居留",
+     "2 年，续 3 年"
+    ],
+    [
+     "续签居住",
+     "连续 6 个月或累计 8 个月（每期）"
+    ],
+    [
+     "永居/入籍",
+     "5 年永居；入籍 2026 新规一般 10 年"
+    ]
+   ],
+   "fit": [
+    "有稳定被动收入的退休或半退休人士",
+    "预算有限但想长居葡萄牙"
+   ],
+   "unfit": [
+    "收入主要是工资（应走 D8 数字游民）"
+   ],
+   "steps": [
+    [
+     "葡萄牙 NIF 税号 + 银行账户",
+     ""
+    ],
+    [
+     "租房或买房",
+     "需葡萄牙地址"
+    ],
+    [
+     "领馆/VFS 递交 D7",
+     ""
+    ],
+    [
+     "入境后 AIMA 换居留卡",
+     ""
+    ],
+    [
+     "续签",
+     "2 年后续 3 年"
+    ]
+   ],
+   "docs": [
+    "被动收入证明（12 个月）",
+    "葡萄牙银行存款证明",
+    "葡萄牙住址（租约/产权）",
+    "医疗保险",
+    "无犯罪证明"
+   ],
+   "tips": [
+    "刚好达标容易被拒，建议收入和存款留余量",
+    "门槛随最低工资每年上调"
+   ],
+   "sources": [
+    [
+     "Global Citizen Solutions: Portugal D7 (Oct 2026)",
+     "https://www.globalcitizensolutions.com/portugal-d7-visa/"
+    ],
+    [
+     "Immigrant Invest: D7 income requirements",
+     "https://immigrantinvest.com/blog/portugal-d7-visa-income-requirements/"
+    ]
+   ]
+  }
+ ],
+ "germany": [
+  {
+   "id": "germany-opportunity-card",
+   "name": "德国机会卡（Chancenkarte）",
+   "type": "work",
+   "summary": "没有 offer 也能先去德国找工作：积分 ≥6 分，最长 1 年，期间可兼职每周 20 小时。",
+   "facts": [
+    [
+     "积分",
+     "≥6 分（学历认可程度、经验、德语/英语、年龄、与德国联系）"
+    ],
+    [
+     "基本条件",
+     "学位或 ≥2 年职业培训 + 德语 A1 或英语 B2"
+    ],
+    [
+     "资金",
+     "冻结账户 EUR 1,091/月 × 12 = EUR 13,092"
+    ],
+    [
+     "期限",
+     "最长 12 个月，不可延期"
+    ],
+    [
+     "工作",
+     "每周 ≤20 小时兼职 + 不限次数 2 周试工"
+    ],
+    [
+     "费用",
+     "约 EUR 75"
+    ]
+   ],
+   "fit": [
+    "没有 offer、想先到德国找工作的本科及以上学历者",
+    "会一点德语的人（加分多）"
+   ],
+   "unfit": [
+    "资金不足 1.3 万欧",
+    "学历未被认可且无职业培训"
+   ],
+   "steps": [
+    [
+     "自测积分",
+     "Make it in Germany 积分计算器"
+    ],
+    [
+     "学历认证",
+     "anabin / ZAB"
+    ],
+    [
+     "开冻结账户",
+     "存入 EUR 13,092"
+    ],
+    [
+     "使馆递交国家签证",
+     ""
+    ],
+    [
+     "入境找工作",
+     "找到后转技术工人签证或蓝卡"
+    ]
+   ],
+   "docs": [
+    "学历证明及认可情况",
+    "语言证书",
+    "冻结账户证明",
+    "简历、工作证明",
+    "医疗保险"
+   ],
+   "tips": [
+    "1 年内找不到工作必须离开或换身份",
+    "德语 B2 可加 3 分"
+   ],
+   "sources": [
+    [
+     "Make it in Germany: Opportunity Card",
+     "https://www.make-it-in-germany.com/en/visa-residence/types/job-search-opportunity-card"
+    ],
+    [
+     "livingineurope.net: Opportunity Card 2026",
+     "https://livingineurope.net/visas/germany-opportunity-card"
+    ]
+   ]
+  },
+  {
+   "id": "germany-skilled-worker-18a-18b",
+   "name": "德国技术工人签证（§18a / §18b）",
+   "type": "work",
+   "summary": "有德国 offer 但达不到蓝卡薪资时的主要选择；45 岁以下没有固定薪资门槛，3 年可永居。",
+   "facts": [
+    [
+     "§18a",
+     "职业培训（≥2 年，需在德认可）"
+    ],
+    [
+     "§18b",
+     "大学学历（anabin 可比），2024 起岗位不必与专业对口"
+    ],
+    [
+     "薪资",
+     "45 岁以下无固定门槛；45 岁及以上首次 EUR 55,770/年或有养老保障"
+    ],
+    [
+     "就业局",
+     "需联邦就业局批准"
+    ],
+    [
+     "有效期",
+     "最长 4 年"
+    ],
+    [
+     "永居",
+     "3 年（§18c）"
+    ]
+   ],
+   "fit": [
+    "薪资低于蓝卡门槛的技术人员",
+    "有职业培训（非本科）的技工"
+   ],
+   "unfit": [
+    "学历/培训未获认可且不走认可伙伴路线"
+   ],
+   "steps": [
+    [
+     "学历/培训认证",
+     "ZAB 或 IHK FOSA"
+    ],
+    [
+     "德国 offer",
+     ""
+    ],
+    [
+     "使馆国家签证 + 就业局批准",
+     ""
+    ],
+    [
+     "入境领居留",
+     ""
+    ],
+    [
+     "3 年后永居",
+     ""
+    ]
+   ],
+   "docs": [
+    "劳动合同",
+    "学历/培训认可证明",
+    "护照",
+    "医保"
+   ],
+   "tips": [
+    "医生、护士、律师等受监管职业须先取得执业许可",
+    "未完成认可可走 §16d 认可伙伴关系（需德语 A2）"
+   ],
+   "sources": [
+    [
+     "Tieben Law: §§18a/18b requirements",
+     "https://www.mth-partner.de/en/residence-permit-for-skilled-workers-after-18a-residence-permit-for-skilled-workers-with-vocational-training-and-18b-residence-permit-for-skilled-workers-with-academic-training/"
+    ],
+    [
+     "finber.de: salary threshold 45+ 2026",
+     "https://finber.de/en/aufenthaltserlaubnis-45/"
+    ]
+   ]
+  }
+ ],
+ "greece": [
+  {
+   "id": "greece-fip",
+   "name": "希腊财务独立人士居留（FIP）",
+   "type": "passive",
+   "summary": "境外被动收入每月 3,500 欧，即可在希腊住 3 年可续；不能在希腊工作。",
+   "facts": [
+    [
+     "收入",
+     "境外被动收入 ≥ EUR 3,500/月（2024-09 起）"
+    ],
+    [
+     "家属",
+     "配偶 +20%，每个孩子 +15%"
+    ],
+    [
+     "或存款",
+     "单人约 EUR 126,000；夫妻 151,200"
+    ],
+    [
+     "期限",
+     "3 年，可同期续签"
+    ],
+    [
+     "续签",
+     "每年在希腊住满 6 个月"
+    ],
+    [
+     "工作",
+     "❌ 不允许"
+    ]
+   ],
+   "fit": [
+    "退休或有高额被动收入的家庭"
+   ],
+   "unfit": [
+    "需要工作收入"
+   ],
+   "steps": [
+    [
+     "领馆 D 签证",
+     ""
+    ],
+    [
+     "入境后申请居留（I.8 类）",
+     ""
+    ],
+    [
+     "生物信息",
+     ""
+    ],
+    [
+     "续签",
+     "3 年后"
+    ]
+   ],
+   "docs": [
+    "被动收入证明",
+    "希腊住房证明",
+    "医疗保险",
+    "无犯罪证明"
+   ],
+   "tips": [
+    "旧资料写的 EUR 2,000/月已过时"
+   ],
+   "sources": [
+    [
+     "Immigrant Invest: Greece FIP 2026",
+     "https://immigrantinvest.com/greece-fip-residence/"
+    ],
+    [
+     "Global Citizen Solutions: FIP Visa Greece",
+     "https://www.globalcitizensolutions.com/fip-visa-greece/"
+    ]
+   ]
+  }
+ ],
+ "italy": [
+  {
+   "id": "italy-elective-residence",
+   "name": "意大利选择性居留（Elective Residence）",
+   "type": "passive",
+   "summary": "靠被动收入在意大利生活的居留，官方最低约 3.1 万欧/年，但各领馆常要求更高。",
+   "facts": [
+    [
+     "最低收入",
+     "约 EUR 31,160/年被动收入"
+    ],
+    [
+     "家属",
+     "配偶 +20%，每个子女 +5%"
+    ],
+    [
+     "实际",
+     "不少领馆期望单人 4–6 万欧"
+    ],
+    [
+     "工作",
+     "❌ 不允许（含远程）"
+    ],
+    [
+     "住房",
+     "须有 ≥12 个月登记租约或产权"
+    ],
+    [
+     "期限",
+     "1 年可续；5 年永居，10 年入籍"
+    ]
+   ],
+   "fit": [
+    "有养老金、租金、股息收入的人"
+   ],
+   "unfit": [
+    "想远程工作的人"
+   ],
+   "steps": [
+    [
+     "落实意大利住房",
+     ""
+    ],
+    [
+     "领馆递交",
+     ""
+    ],
+    [
+     "入境 8 天内申请居留",
+     "Questura"
+    ],
+    [
+     "每年续签",
+     ""
+    ]
+   ],
+   "docs": [
+    "被动收入证明",
+    "住房合同",
+    "医保 ≥ EUR 30,000",
+    "无犯罪证明"
+   ],
+   "tips": [
+    "金额各领馆不同，递交前问清所属领馆"
+   ],
+   "sources": [
+    [
+     "Golden Harbors: Italy ERV 2026",
+     "https://goldenharbors.com/articles/italy-elective-residence-visa"
+    ],
+    [
+     "Harvey Law: Italy retirement visa",
+     "https://harveylawcorporation.com/italy-retirement-visa/"
+    ]
+   ]
+  }
+ ],
+ "malta": [
+  {
+   "id": "malta-global-residence-programme",
+   "name": "马耳他全球居留计划（GRP）",
+   "type": "residence-by-investment",
+   "summary": "买房 27.5 万或租房 9,600 欧/年即可获特殊税务居留，汇入马耳他的境外收入按 15% 征税。",
+   "facts": [
+    [
+     "购房",
+     "EUR 275,000（南部/戈佐 220,000）"
+    ],
+    [
+     "或租房",
+     "EUR 9,600/年（南部/戈佐 8,750）"
+    ],
+    [
+     "税",
+     "汇入境外收入 15%，每年最低 EUR 15,000"
+    ],
+    [
+     "行政费",
+     "EUR 6,000（南部/戈佐 5,500）"
+    ],
+    [
+     "条件",
+     "不得在其他单一国家住 >183 天"
+    ]
+   ],
+   "fit": [
+    "有境外收入、想以马耳他为税务居所的人"
+   ],
+   "unfit": [
+    "想要永居（GRP 是特殊税务居留，不是永居）"
+   ],
+   "steps": [
+    [
+     "委托授权注册代理（ARM）",
+     ""
+    ],
+    [
+     "买房或租房",
+     ""
+    ],
+    [
+     "递交申请",
+     ""
+    ],
+    [
+     "年度报税",
+     "6 月 30 日前；最低税 4 月 30 日前"
+    ]
+   ],
+   "docs": [
+    "购房/租房合同",
+    "医疗保险",
+    "背景调查材料"
+   ],
+   "tips": [
+    "与 MPRP 永居是两个不同项目"
+   ],
+   "sources": [
+    [
+     "CC Malta: GRP 2026",
+     "https://www.ccmalta.com/publications/malta-global-residence-programme"
+    ],
+    [
+     "GVZH: Global Residence Programme",
+     "https://gvzh.mt/services/practice-areas/immigration-citizenship-residence/global-residence-programme/"
+    ]
+   ]
+  }
+ ],
+ "estonia": [
+  {
+   "id": "estonia-startup-visa",
+   "name": "爱沙尼亚创业签证（Startup Visa）",
+   "type": "startup",
+   "summary": "创业委员会 10 个工作日内评审，不收费、无最低注资，通过后可拿 D 签证或 2+3 年居留。",
+   "facts": [
+    [
+     "评审",
+     "创业委员会，10 个工作日，免费"
+    ],
+    [
+     "注资",
+     "无最低要求（普通商业投资居留需 6.5 万欧）"
+    ],
+    [
+     "个人资金",
+     "约 EUR 800/月"
+    ],
+    [
+     "签证",
+     "D 签证 EUR 120"
+    ],
+    [
+     "居留",
+     "2+3 年，境内 EUR 350 / 境外 380"
+    ],
+    [
+     "招人",
+     "免移民配额和最低工资要求"
+    ]
+   ],
+   "fit": [
+    "有可扩展科技项目的创始人"
+   ],
+   "unfit": [
+    "普通生意、无创新性"
+   ],
+   "steps": [
+    [
+     "向 Startup Estonia 提交",
+     ""
+    ],
+    [
+     "委员会认定（Startup Code）",
+     ""
+    ],
+    [
+     "申请 D 签证或居留",
+     ""
+    ],
+    [
+     "注册公司",
+     "可用 e-Residency 远程办理"
+    ]
+   ],
+   "docs": [
+    "商业计划",
+    "团队与产品材料",
+    "资金证明",
+    "医保 ≥ EUR 30,000"
+   ],
+   "tips": [
+    "e-Residency 本身不给居留，这才是能住下来的那条"
+   ],
+   "sources": [
+    [
+     "e-Residency: Startup Visa vs e-Residency",
+     "https://www.e-resident.gov.ee/blog/posts/estonian-startup-visa-vs-e-residency/"
+    ],
+    [
+     "Remote Work Europe: Estonia Startup Visa",
+     "https://remoteworkeurope.eu/insights/estonia-startup-visa-explained/"
+    ]
+   ]
+  }
+ ],
+ "united-kingdom": [
+  {
+   "id": "uk-skilled-worker",
+   "name": "英国技术工作签证（Skilled Worker）",
+   "type": "work",
+   "summary": "英国最主流的工作移民路线：持牌雇主担保、学士级岗位、年薪 41,700 英镑起。",
+   "facts": [
+    [
+     "薪资",
+     "≥ GBP 41,700/年或职业标准工资（取高者），时薪 ≥ GBP 17.13"
+    ],
+    [
+     "岗位",
+     "RQF 6（学士级）以上；中等技能岗位需在紧缺清单"
+    ],
+    [
+     "英语",
+     "B2（2026-01-08 起）"
+    ],
+    [
+     "雇主",
+     "持牌担保雇主"
+    ],
+    [
+     "永居",
+     "现行 5 年；拟改为 10 年（earned settlement）"
+    ]
+   ],
+   "fit": [
+    "拿到英国 offer 的本科以上专业人士"
+   ],
+   "unfit": [
+    "中低技能岗位"
+   ],
+   "steps": [
+    [
+     "雇主出具担保证明（CoS）",
+     ""
+    ],
+    [
+     "线上申请 + 生物信息",
+     ""
+    ],
+    [
+     "缴移民医疗附加费（IHS）",
+     ""
+    ],
+    [
+     "入境领 eVisa",
+     ""
+    ]
+   ],
+   "docs": [
+    "CoS 担保证明",
+    "英语 B2 证明",
+    "护照",
+    "肺结核检测（中国申请人需要）"
+   ],
+   "tips": [
+    "2026-04 起按每个发薪期核查工资合规"
+   ],
+   "sources": [
+    [
+     "GOV.UK Skilled Worker visa",
+     "https://www.gov.uk/skilled-worker-visa"
+    ],
+    [
+     "Kenton Solicitors: 2026 thresholds",
+     "https://kentonsolicitors.co.uk/skilled-worker-visa-2026-salary-changes/"
+    ]
+   ]
+  },
+  {
+   "id": "uk-global-talent",
+   "name": "英国全球人才签证（Global Talent）",
+   "type": "work",
+   "summary": "科研、数字技术、艺术、设计等领域顶尖或潜力人才，无需雇主，最长 5 年，可快速永居。",
+   "facts": [
+    [
+     "背书",
+     "认可机构背书（2026-08 起 100 多家企业可为研究人员背书）"
+    ],
+    [
+     "雇主",
+     "不需要"
+    ],
+    [
+     "期限",
+     "最长 5 年"
+    ],
+    [
+     "费用",
+     "GBP 766 + IHS"
+    ],
+    [
+     "新增",
+     "2026-07 起设计领域"
+    ]
+   ],
+   "fit": [
+    "有国际认可成果的科研人员、技术专家"
+   ],
+   "unfit": [
+    "没有可证明的杰出成就"
+   ],
+   "steps": [
+    [
+     "申请背书",
+     ""
+    ],
+    [
+     "获背书后申请签证",
+     ""
+    ]
+   ],
+   "sources": [
+    [
+     "GOV.UK Global Talent visa",
+     "https://www.gov.uk/global-talent"
+    ]
+   ]
+  },
+  {
+   "id": "uk-hpi",
+   "name": "英国高潜力人才签证（HPI）",
+   "type": "work",
+   "summary": "全球前约 100 名大学近 5 年毕业生可直接申请 2 年开放工作签证，无需 offer。",
+   "facts": [
+    [
+     "学历",
+     "名单内大学近 5 年毕业"
+    ],
+    [
+     "期限",
+     "2 年（博士 3 年），不可续"
+    ],
+    [
+     "名额",
+     "每年 8,000（2025-11 起）"
+    ],
+    [
+     "英语",
+     "B2"
+    ],
+    [
+     "永居",
+     "不直接通向，可转其他签证"
+    ]
+   ],
+   "fit": [
+    "北大、清华等名单内大学的毕业生（以 GOV.UK 当年名单为准）"
+   ],
+   "unfit": [
+    "想直接拿永居"
+   ],
+   "steps": [
+    [
+     "确认学校在名单内",
+     ""
+    ],
+    [
+     "线上申请",
+     ""
+    ],
+    [
+     "在英国找工作后转技术工作签证",
+     ""
+    ]
+   ],
+   "sources": [
+    [
+     "GOV.UK High Potential Individual visa",
+     "https://www.gov.uk/high-potential-individual-visa"
+    ],
+    [
+     "Fragomen: UK widens HPI",
+     "https://www.fragomen.com/insights/uk-widens-access-to-the-high-potential-individual-visa-to-attract-the-worlds-top-graduate-talent-or-mobilityminute.html"
+    ]
+   ]
+  }
+ ]
+}

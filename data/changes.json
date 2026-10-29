@@ -1,0 +1,19 @@
+[
+ {"date": "2025-04-03", "flag": "🇪🇸", "country": "西班牙", "slug": "spain", "kind": "closed", "text": "黄金签证全部投资类别停止受理新申请"},
+ {"date": "2025-07", "flag": "🇲🇹", "country": "马耳他", "slug": "malta", "kind": "closed", "text": "投资入籍（护照项目）在欧盟法院判决后被废止，只剩功绩入籍"},
+ {"date": "2025-10-16", "flag": "🇯🇵", "country": "日本", "global": "japan", "kind": "tighter", "text": "经营管理签证资本金 500 万 → 3,000 万日元，并须雇员和日语"},
+ {"date": "2025-11-21", "flag": "🇸🇮", "country": "斯洛文尼亚", "slug": "slovenia", "kind": "new", "text": "新开数字游民许可；蓝卡门槛降至平均工资 1 倍"},
+ {"date": "2026-01-01", "flag": "🇧🇬", "country": "保加利亚", "slug": "bulgaria", "kind": "info", "text": "改用欧元（2025 年已完整加入申根）"},
+ {"date": "2026-01-08", "flag": "🇫🇮", "country": "芬兰", "slug": "finland", "kind": "info", "text": "永居新规：年收入 ≥ EUR 40,000 可 4 年申请"},
+ {"date": "2026", "flag": "🇵🇹", "country": "葡萄牙", "slug": "portugal", "kind": "tighter", "text": "国籍法改革：入籍从 5 年改为一般 10 年"},
+ {"date": "2026", "flag": "🇦🇩", "country": "安道尔", "slug": "andorra", "kind": "tighter", "text": "被动居留投资门槛涨到 EUR 100 万 + 年度配额"},
+ {"date": "2026", "flag": "🇸🇪", "country": "瑞典", "slug": "sweden", "kind": "tighter", "text": "工作许可须达中位工资 90%（SEK 34,470/月）"},
+ {"date": "2026", "flag": "🇷🇴", "country": "罗马尼亚", "slug": "romania", "kind": "info", "text": "工作移民改为 WorkinRomania 平台 + D/AM 签证"},
+ {"date": "2026-04-27", "flag": "🇵🇱", "country": "波兰", "slug": "poland", "kind": "info", "text": "居留申请全部改为 MOS 线上递交"},
+ {"date": "2026-05", "flag": "🇮🇸", "country": "冰岛", "slug": "iceland", "kind": "closed", "text": "远程工作长期签证废止"},
+ {"date": "2026-06-30", "flag": "🇨🇦", "country": "加拿大", "global": "canada", "kind": "closed", "text": "联邦创业签证（SUV）完全暂停"},
+ {"date": "2026-06-30", "flag": "🇰🇷", "country": "韩国", "global": "south-korea", "kind": "new", "text": "F-1-D 数字游民签证转为正式签证，最长 3 年"},
+ {"date": "2026-09-15", "flag": "🇱🇻", "country": "拉脱维亚", "slug": "latvia", "kind": "closed", "text": "新《移民法》关闭买房居留和银行次级债居留"},
+ {"date": "2026-09-30", "flag": "🇺🇸", "country": "美国", "global": "usa", "kind": "info", "text": "法院阻止执行 H-1B 10 万美元附加费；抽签改为按工资加权"},
+ {"date": "咨询中", "flag": "🇬🇧", "country": "英国", "slug": "united-kingdom", "kind": "tighter", "text": "永居拟从 5 年改为 10 年（earned settlement）"}
+]

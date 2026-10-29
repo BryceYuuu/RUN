@@ -1,0 +1,3197 @@
+[
+ {
+  "country": "阿尔巴尼亚",
+  "country_slug": "albania",
+  "programme": "阿尔巴尼亚数字移动工作者统一许可",
+  "slug": "albania-digital-mobile-worker-unique-permit",
+  "route_type": "digital-nomad",
+  "audience": "远程雇员或自由职业者",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "ALL 32,000 monthly",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/albania-digital-mobile-worker-unique-permit-zh/",
+  "sources": [
+   {
+    "title": "Ministry of Interior residence and unique permit procedure",
+    "url": "https://mb.gov.al/en/procedura-dhe-dokumentacioni-per-pajisjen-me-leje-qendrimi-dhe-leje-unike-residence-unique-permit-al-en/"
+   },
+   {
+    "title": "Ministry for Europe and Foreign Affairs visa regime",
+    "url": "https://punetejashtme.gov.al/en/regjimi-i-vizave-per-te-huajt/"
+   },
+   {
+    "title": "e-Visa Albania application portal",
+    "url": "https://e-visa.al/apply"
+   },
+   {
+    "title": "General Directorate of Taxes individual taxpayers",
+    "url": "https://tatime.gov.al/individ/?artikull=rezident"
+   },
+   {
+    "title": "Ministry of Interior citizenship by naturalisation",
+    "url": "https://mb.gov.al/azili-shtetesia/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "安道尔",
+  "country_slug": "andorra",
+  "programme": "安道尔被动居留",
+  "slug": "andorra-passive-residence",
+  "route_type": "residence-by-investment",
+  "audience": "希望通过投资获得居留",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "1,000,000+",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/andorra-passive-residence-zh/",
+  "sources": [
+   {
+    "title": "Andorra Government residence without work initial authorization",
+    "url": "https://www.govern.ad/ca/tematiques/immigracio/residencia/residencia-sense-treball-autoritzacio-inicial"
+   },
+   {
+    "title": "Andorra Law 2/2026 sustainable growth measures",
+    "url": "https://portaljuridicandorra.ad/L2026002"
+   },
+   {
+    "title": "Andorra Government 2026 immigration quota and passive residence update",
+    "url": "https://www.govern.ad/ca/w/el-govern-acorda-reduir-les-quotes-d-immigracio-per-afavorir-el-creixement-sostenible-i-controlat-de-la-poblacio"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "奥地利",
+  "country_slug": "austria",
+  "programme": "奥地利欧盟蓝卡",
+  "slug": "austria-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 55,678 annual",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/austria-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "Migration.gv.at EU Blue Card",
+    "url": "https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/eubluecard/"
+   },
+   {
+    "title": "Migration.gv.at Red-White-Red Card plus",
+    "url": "https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/red-white-red-card-plus/"
+   },
+   {
+    "title": "European Commission EU Blue Card",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card_en"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "奥地利",
+  "country_slug": "austria",
+  "programme": "奥地利红白红卡",
+  "slug": "austria-red-white-red-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/austria-red-white-red-card-zh/",
+  "sources": [
+   {
+    "title": "Migration.gv.at permanent immigration",
+    "url": "https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/"
+   },
+   {
+    "title": "Migration.gv.at other key workers",
+    "url": "https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/other-key-workers/"
+   },
+   {
+    "title": "Migration.gv.at shortage occupations",
+    "url": "https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/skilled-workers-in-shortage-occupations/"
+   },
+   {
+    "title": "Migration.gv.at Red-White-Red Card plus",
+    "url": "https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/red-white-red-card-plus/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "奥地利",
+  "country_slug": "austria",
+  "programme": "奥地利自雇关键工作者 / 初创创始人签证替代路线",
+  "slug": "austria-self-employed-startup-founder-visa",
+  "route_type": "self-employed",
+  "audience": "自雇专业人士",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/austria-self-employed-startup-founder-visa-zh/",
+  "sources": [
+   {
+    "title": "Migration.gv.at self-employed key workers",
+    "url": "https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/self-employedkeyworkers/"
+   },
+   {
+    "title": "Migration.gv.at start-up founders",
+    "url": "https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/start-up-founders/"
+   },
+   {
+    "title": "Migration.gv.at Red-White-Red Card plus",
+    "url": "https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/red-white-red-card-plus/"
+   },
+   {
+    "title": "USP trade registration",
+    "url": "https://www.usp.gv.at/en/gruendung/EAP/gewerbeanmeldung.html"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "比利时",
+  "country_slug": "belgium",
+  "programme": "比利时欧盟蓝卡",
+  "slug": "belgium-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/belgium-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "European Commission EU Blue Card in Belgium",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card/eu-blue-card-belgium_en"
+   },
+   {
+    "title": "Flanders European Blue Card",
+    "url": "https://www.vlaanderen.be/en/working-enterprise-and-investment/working/employing-a-foreigner-in-flanders/categories/european-blue-card"
+   },
+   {
+    "title": "Brussels minimum remuneration",
+    "url": "https://economy-employment.brussels/single-permit-minimum-remuneration"
+   },
+   {
+    "title": "German-speaking Community European Blue Card",
+    "url": "https://adg.be/de/desktopdefault.aspx/tabid-8731/14163_read-75734/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "比利时",
+  "country_slug": "belgium",
+  "programme": "比利时专业卡 / 自雇签证替代路线",
+  "slug": "belgium-professional-card-self-employed-visa",
+  "route_type": "self-employed",
+  "audience": "自雇专业人士",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/belgium-professional-card-self-employed-visa-zh/",
+  "sources": [
+   {
+    "title": "Belgium.be self-employment",
+    "url": "https://www.belgium.be/en/work/coming_to_work_in_belgium/self_employment"
+   },
+   {
+    "title": "IBZ professional card and stay over 90 days",
+    "url": "https://dofi.ibz.be/en/themes/ressortissants-dun-pays-tiers/travail/professional-card"
+   },
+   {
+    "title": "Flanders professional card requirements",
+    "url": "https://www.vlaanderen.be/en/working-enterprise-and-investment/working/professional-card-for-foreign-entrepreneurs/requirements-for-a-professional-card"
+   },
+   {
+    "title": "Brussels professional card for non-European nationals",
+    "url": "https://be.brussels/en/employment/job-brussels/employment-conditions/professional-card-non-european-nationals"
+   },
+   {
+    "title": "Wallonia professional cards for self-employed workers",
+    "url": "https://wallonie.be/en/demarches/professional-cards-self-employed-workers-who-are-not-belgian-nationals"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "比利时",
+  "country_slug": "belgium",
+  "programme": "比利时单一许可 / 工作许可",
+  "slug": "belgium-single-permit-work-permit",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/belgium-single-permit-work-permit-zh/",
+  "sources": [
+   {
+    "title": "Working in Belgium fixed-term single permit",
+    "url": "https://www.workinginbelgium.fgov.be/en/home.html"
+   },
+   {
+    "title": "FPS Foreign Affairs employee single permit visa page",
+    "url": "https://diplomatie.belgium.be/en/travel-belgium/visa-belgium/visa-long-stays-over-90-days/employee-single-permit"
+   },
+   {
+    "title": "European Commission highly-qualified worker in Belgium",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/highly-qualified-worker-belgium_en"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "保加利亚",
+  "country_slug": "bulgaria",
+  "programme": "保加利亚欧盟蓝卡",
+  "slug": "bulgaria-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/bulgaria-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "Ministry of Labour EU Blue Card",
+    "url": "https://www.mlsp.government.bg/sinya-karta-na-es"
+   },
+   {
+    "title": "European Commission EU Blue Card in Bulgaria",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card/eu-blue-card-bulgaria_en"
+   },
+   {
+    "title": "European Commission highly-qualified worker in Bulgaria",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/highly-qualified-worker-bulgaria_en"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "保加利亚",
+  "country_slug": "bulgaria",
+  "programme": "保加利亚单一居留和工作许可",
+  "slug": "bulgaria-single-residence-work-permit",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/bulgaria-single-residence-work-permit-zh/",
+  "sources": [
+   {
+    "title": "Ministry of Labour general regime for third-country workers",
+    "url": "https://www.mlsp.government.bg/obshch-rezhim-za-rabota-na-grazhdani-na-treti-drzhavi-v-blgariya"
+   },
+   {
+    "title": "Ministry of Economy hiring foreign employees",
+    "url": "https://www.mi.government.bg/en/general/naemane-na-slujiteli-grajdani-na-drugi-darjavi/"
+   },
+   {
+    "title": "European Commission employed worker in Bulgaria",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/employed-worker-bulgaria_en"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "保加利亚",
+  "country_slug": "bulgaria",
+  "programme": "保加利亚 StartUp Visa 替代路径",
+  "slug": "bulgaria-startup-visa",
+  "route_type": "startup",
+  "audience": "创业创始人",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/bulgaria-startup-visa-zh/",
+  "sources": [
+   {
+    "title": "Innovation Ministry 2026 ISUN 2020 application notice",
+    "url": "https://www.mig.government.bg/all-news/application-for-the-issuance-of-a-startup-visa-certificate-via-isun-2020/?lang=en"
+   },
+   {
+    "title": "Ministry of Innovation and Growth StartUp Visa certificate service",
+    "url": "https://www.mig.government.bg/3263-issuance-of-a-sertificate-for-a-high-tech-and-or-innovative-project-startup-visa/?lang=en"
+   },
+   {
+    "title": "National Investments Management System StartUp Visa procedure",
+    "url": "https://eumis2020.government.bg/bg/fc8a8ddd/ProcedureNims/Info/2c891513-0493-4658-823a-56fe215e0e0e"
+   },
+   {
+    "title": "Bulgarian Point of Single Contact foreign citizens",
+    "url": "https://psc.egov.bg/en/bulgaria-non-eu-citizen"
+   },
+   {
+    "title": "Bulgarian Point of Single Contact commercial registration",
+    "url": "https://psc.egov.bg/en/web/guest/psc-starting-a-business-commercial-registration"
+   },
+   {
+    "title": "European Commission Bulgaria and Romania join Schengen",
+    "url": "https://home-affairs.ec.europa.eu/news/bulgaria-and-romania-join-schengen-area-2025-01-03_en"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "Croatia",
+  "country_slug": "croatia",
+  "programme": "克罗地亚数字游民临时居留",
+  "slug": "croatia-digital-nomad-temporary-stay",
+  "route_type": "digital-nomad",
+  "audience": "远程雇员或自由职业者",
+  "family": "支持家庭成员",
+  "pr": "通常偏临时",
+  "threshold": "EUR 3,622.5 monthly",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/croatia-digital-nomad-temporary-stay-zh/",
+  "sources": [
+   {
+    "title": "MUP temporary stay of digital nomads",
+    "url": "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833"
+   },
+   {
+    "title": "Ministry of Foreign and European Affairs stay of aliens page",
+    "url": "https://mvep.gov.hr/print.aspx?id=180412&url=print"
+   },
+   {
+    "title": "gov.hr digital nomad e-Citizens and OIB page",
+    "url": "https://gov.hr/en/if-i-am-a-digital-nomad-with-an-approved-temporary-residence-in-croatia-can-i-use-the-e-citizens-digital-platform/1838"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "Croatia",
+  "country_slug": "croatia",
+  "programme": "克罗地亚欧盟蓝卡",
+  "slug": "croatia-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 3,024 monthly",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/croatia-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "Ministry of the Interior highly qualified third-country nationals",
+    "url": "https://mup.gov.hr/aliens-281621/stay-and-work/highly-qualified-third-country-nationals/281803"
+   },
+   {
+    "title": "Aliens Act amendment 2025",
+    "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_03_40_516.html"
+   },
+   {
+    "title": "Average monthly gross wage in legal entities in 2025",
+    "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_03_32_417.html"
+   },
+   {
+    "title": "European Commission EU Blue Card in Croatia",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card/eu-blue-card-croatia_en"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "Croatia",
+  "country_slug": "croatia",
+  "programme": "克罗地亚居留和工作许可",
+  "slug": "croatia-stay-and-work-permit",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/croatia-stay-and-work-permit-zh/",
+  "sources": [
+   {
+    "title": "Ministry of the Interior stay and work of third-country nationals",
+    "url": "https://mup.gov.hr/aliens-281621/stay-and-work/stay-and-work-of-third-country-nationals/281802"
+   },
+   {
+    "title": "GOV.HR work of foreign nationals",
+    "url": "https://gov.hr/en/work-of-foreign-nationals/1214"
+   },
+   {
+    "title": "Croatian Employment Service labour market test and work permits",
+    "url": "https://www.hzz.hr/usluge/radna-dozvola/"
+   },
+   {
+    "title": "Aliens Act amendment 2025",
+    "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_03_40_516.html"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "塞浦路斯",
+  "country_slug": "cyprus",
+  "programme": "塞浦路斯数字游民签证",
+  "slug": "cyprus-digital-nomad-visa",
+  "route_type": "digital-nomad",
+  "audience": "远程雇员或自由职业者",
+  "family": "支持家庭成员",
+  "pr": "通常偏临时",
+  "threshold": "EUR 3,500 monthly",
+  "verified": "2026-10-26",
+  "overview": "核心条件包括境外远程工作、税后 EUR 3,500/月收入、500 个许可名额、首年许可和最多再 2 年续签。",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/cyprus-digital-nomad-visa-zh/",
+  "sources": [
+   {
+    "title": "Migration Department digital nomads and family members",
+    "url": "https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/"
+   },
+   {
+    "title": "Migration Department digital nomad forms and supporting documents",
+    "url": "https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members-2/"
+   },
+   {
+    "title": "Cyprus Tax Department individuals and tax residence",
+    "url": "https://www.mof.gov.cy/mof/tax/taxdep.nsf/All/60CDDB556F7C9D4DC2258549002DEA93"
+   },
+   {
+    "title": "European Union Cyprus country profile",
+    "url": "https://european-union.europa.eu/principles-countries-history/eu-countries/cyprus_en"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "塞浦路斯",
+  "country_slug": "cyprus",
+  "programme": "塞浦路斯欧盟蓝卡",
+  "slug": "cyprus-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 43,632 annual",
+  "verified": "2026-10-26",
+  "overview": "核心门槛包括限定行业、EUR 43,632 年总薪资、高级专业资格，以及雇主能支持在尼科西亚总部递交的蓝卡申请。",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/cyprus-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "Migration Department EU Blue Card",
+    "url": "https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/eu-blue-card-investors/"
+   },
+   {
+    "title": "Deputy Ministry EU Blue Card press release",
+    "url": "https://www.gov.cy/en/migration/press-release-by-the-deputy-ministry-of-migration-and-international-protection-on-the-eu-blue-card/"
+   },
+   {
+    "title": "Application for EU Blue Card",
+    "url": "https://www.gov.cy/mip-md/en/documents/application-for-eu-blue-card-eubc/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "塞浦路斯",
+  "country_slug": "cyprus",
+  "programme": "塞浦路斯 Investment Programme",
+  "slug": "cyprus-investment-programme",
+  "route_type": "citizenship",
+  "audience": "",
+  "family": "",
+  "pr": "",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "该投资入籍计划自 November 1, 2020 起终止，不接受新申请。当前应区分 Regulation 6(2) 投资永久居留和普通国籍法下的归化入籍。",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/cyprus-investment-programme-zh/",
+  "sources": [
+   {
+    "title": "Cyprus Investment Programme service-provider registry",
+    "url": "https://cipregistry.mof.gov.cy/en/"
+   },
+   {
+    "title": "Law Office press release on European Commission infringement closure",
+    "url": "https://www.gov.cy/en/independent-officials/the-european-commission-closed-the-infringement-procedure-against-cyprus-in-relation-to-the-cyprus-investment-program/"
+   },
+   {
+    "title": "Ministry of Interior Cypriot citizenship and nationality",
+    "url": "https://www.gov.cy/moi/en/ministry/departments/civil-registry-section/registry-office-2/cypriot-citizenship-nationality/"
+   },
+   {
+    "title": "Ministry of Interior naturalisation by residence M127",
+    "url": "https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127/"
+   }
+  ],
+  "status": "closed"
+ },
+ {
+  "country": "塞浦路斯",
+  "country_slug": "cyprus",
+  "programme": "塞浦路斯投资永久居留",
+  "slug": "cyprus-permanent-residence-by-investment",
+  "route_type": "residence-by-investment",
+  "audience": "希望通过投资获得居留",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 50,000 annual · 300,000+",
+  "verified": "2026-10-26",
+  "overview": "这是永久居留，不是投资入籍。主要要求包括 EUR 300,000 投资、EUR 50,000 年收入、家庭加算、工作限制和批准后的持续监控。",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/cyprus-permanent-residence-by-investment-zh/",
+  "sources": [
+   {
+    "title": "Migration Department immigration permits for investors",
+    "url": "https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/"
+   },
+   {
+    "title": "Migration Department investor immigration permit forms",
+    "url": "https://www.gov.cy/mip-md/en/documents/immigration-permits-for-investors-ip/"
+   },
+   {
+    "title": "Migration Department immigration permits",
+    "url": "https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits/"
+   },
+   {
+    "title": "Cyprus Tax Department individuals and tax residence",
+    "url": "https://www.mof.gov.cy/mof/tax/taxdep.nsf/All/60CDDB556F7C9D4DC2258549002DEA93"
+   },
+   {
+    "title": "Ministry of Interior Cypriot citizenship and nationality",
+    "url": "https://www.gov.cy/moi/en/ministry/departments/civil-registry-section/registry-office-2/cypriot-citizenship-nationality/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "塞浦路斯",
+  "country_slug": "cyprus",
+  "programme": "塞浦路斯受雇工作 Single Permit",
+  "slug": "cyprus-remunerated-employment-single-permit",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "这条路线适合不符合塞浦路斯欧盟蓝卡窄行业或薪资/资格框架的普通塞浦路斯雇佣。 移民部门对材料齐全的普通 GEN 申请规定最长 4 个月审理，缺件可延长。入境许可连同居留和工作许可费用为 EUR 120；居留和工作许可签发或续签为 EUR 130；首次外国人登记另需 EUR 70。持有已验证的 Cy Login 账户者可在到期前 60 至 30 天在线提交续签。",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/cyprus-remunerated-employment-single-permit-zh/",
+  "sources": [
+   {
+    "title": "Remunerated employment single permit GEN",
+    "url": "https://www.gov.cy/mip-md/en/documents/remunerated-employment-single-permit-gen/"
+   },
+   {
+    "title": "Application for employment of third-country nationals",
+    "url": "https://www.gov.cy/en/service/application-for-employment-of-third-country-nationals/"
+   },
+   {
+    "title": "Companies of foreign interests policy",
+    "url": "https://www.gov.cy/mip-md/en/documents/legislation-and-policy/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "捷克",
+  "country_slug": "czechia",
+  "programme": "捷克 Digital Nomad Program",
+  "slug": "czechia-digital-nomad-program",
+  "route_type": "digital-nomad",
+  "audience": "远程雇员或自由职业者",
+  "family": "支持家庭成员",
+  "pr": "通常偏临时",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/czechia-digital-nomad-program-zh/",
+  "sources": [
+   {
+    "title": "Ministry of Industry and Trade Digital Nomad Program",
+    "url": "https://mpo.gov.cz/en/foreign-trade/economic-migration/programs-and-projects/digital-nomad-program--275799/"
+   },
+   {
+    "title": "CzechInvest Digital Nomad Program",
+    "url": "https://czechinvest.gov.cz/en/For-Investors/Visa-Support/Digital-Nomad-Program"
+   },
+   {
+    "title": "Information Portal for Foreigners long-term visa for business",
+    "url": "https://ipc.gov.cz/en/visa-and-residence-permit-types/third-country-nationals/long-term-visa/long-term-visa-for-the-purpose-of-doing-business/"
+   },
+   {
+    "title": "Gov.cz personal income taxes and tax residence",
+    "url": "https://portal.gov.cz/en/informace/dane-z-prijmu-fyzickych-osob-INF-293"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "捷克",
+  "country_slug": "czechia",
+  "programme": "捷克 Employee Card",
+  "slug": "czechia-employee-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "CZK 22,400 monthly",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/czechia-employee-card-zh/",
+  "sources": [
+   {
+    "title": "Czech Information Portal for Foreigners Employee Card",
+    "url": "https://ipc.gov.cz/en/visa-and-residence-permit-types/third-country-nationals/long-term-residence-permits/employee-card/"
+   },
+   {
+    "title": "Ministry of Labour employee cards",
+    "url": "https://mpsv.gov.cz/pro-cizince"
+   },
+   {
+    "title": "Czech labour-market access for selected countries",
+    "url": "https://ipc.gov.cz/en/free-access-to-the-czech-labour-market-for-citizens-of-selected-countries/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "捷克",
+  "country_slug": "czechia",
+  "programme": "捷克欧盟蓝卡",
+  "slug": "czechia-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "CZK 73,823 monthly",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/czechia-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "Czech Information Portal for Foreigners Blue Card",
+    "url": "https://ipc.gov.cz/en/visa-and-residence-permit-types/third-country-nationals/long-term-residence-permits/blue-card/"
+   },
+   {
+    "title": "Ministry of Industry and Trade 2026 Blue Card salary increase",
+    "url": "https://mpo.gov.cz/cz/zahranicni-obchod/ekonomicka-migrace/navyseni-mzdy-pro-modre-karty-a-nove-formulare-cestneho-prohlaseni-_-program-klicovy-a-vedecky-personal-a-program-vysoce-kvalifikovany-zamestnanec--292547/"
+   },
+   {
+    "title": "European Commission EU Blue Card in Czechia",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card/eu-blue-card-czechia_en"
+   },
+   {
+    "title": "Czech continuous residence for third-country nationals",
+    "url": "https://ipc.gov.cz/en/administrative-proceedings/continuous-residence/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "丹麦",
+  "country_slug": "denmark",
+  "programme": "丹麦 Pay Limit Scheme",
+  "slug": "denmark-pay-limit-scheme",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "DKK 552,000 annual",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/denmark-pay-limit-scheme-zh/",
+  "sources": [
+   {
+    "title": "SIRI Pay Limit Scheme",
+    "url": "https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Pay-limit-scheme/"
+   },
+   {
+    "title": "SIRI Pay Limit Scheme minimum amount",
+    "url": "https://www.nyidanmark.dk/en-GB/Words-and-concepts/SIRI/Minimum-amounts/Pay-Limit-Scheme%27s-minimum-amount"
+   },
+   {
+    "title": "SIRI Positive List for People with a Higher Education",
+    "url": "https://www.nyidanmark.dk/en-GB/Applying/Work/Positive%20list%20higher%20education"
+   },
+   {
+    "title": "European Commission EU Blue Card",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card_en"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "丹麦",
+  "country_slug": "denmark",
+  "programme": "丹麦 Startup Denmark 替代路线",
+  "slug": "denmark-startup-denmark",
+  "route_type": "startup",
+  "audience": "创业创始人",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/denmark-startup-denmark-zh/",
+  "sources": [
+   {
+    "title": "Startup Denmark programme",
+    "url": "https://startupdenmarkprogramme.dk/"
+   },
+   {
+    "title": "Startup Denmark application process",
+    "url": "https://startupdenmarkprogramme.dk/application-guide-startups"
+   },
+   {
+    "title": "SIRI Startup Denmark residence and work permit",
+    "url": "https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Start-up-Denmark/"
+   },
+   {
+    "title": "Business in Denmark starting a business",
+    "url": "https://businessindenmark.virk.dk/guidance/services-contact-point/Establish-a-business-in-Denmark/"
+   },
+   {
+    "title": "Danish Tax Agency VAT guide",
+    "url": "https://skat.dk/en-us/businesses/vat/vat-what-to-do/how-to-register-your-business"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "爱沙尼亚",
+  "country_slug": "estonia",
+  "programme": "爱沙尼亚数字游民签证",
+  "slug": "estonia-digital-nomad-visa",
+  "route_type": "digital-nomad",
+  "audience": "远程雇员或自由职业者",
+  "family": "支持家庭成员",
+  "pr": "通常偏临时",
+  "threshold": "EUR 3,960 monthly",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/estonia-digital-nomad-visa-zh/",
+  "sources": [
+   {
+    "title": "Estonia e-Residency Digital Nomad Visa FAQ",
+    "url": "https://www.e-resident.gov.ee/blog/posts/faqs-about-estonias-digital-nomad-visa/"
+   },
+   {
+    "title": "Estonian Ministry of Foreign Affairs D visa guidance",
+    "url": "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-long-stay-d-visa"
+   },
+   {
+    "title": "Estonian Tax and Customs Board tax residency guidance",
+    "url": "https://www.emta.ee/en/private-client/foreigner-non-resident/tax-residency/determining-residency"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "爱沙尼亚",
+  "country_slug": "estonia",
+  "programme": "爱沙尼亚欧盟蓝卡",
+  "slug": "estonia-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 3,138 monthly",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/estonia-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "European Commission highly-qualified worker in Estonia",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/highly-qualified-worker-estonia_en"
+   },
+   {
+    "title": "Estonian Aliens Act",
+    "url": "https://www.riigiteataja.ee/en/tolge/pdf/506012026003"
+   },
+   {
+    "title": "Statistics Estonia average monthly gross wages and salaries",
+    "url": "https://www.stat.ee/en/find-statistics/statistics-theme/work-life/wages-and-salaries-and-labour-costs/average-monthly-gross-wages-and-salaries"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "爱沙尼亚",
+  "country_slug": "estonia",
+  "programme": "爱沙尼亚就业居留许可",
+  "slug": "estonia-residence-permit-for-employment",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 2,092 monthly",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/estonia-residence-permit-for-employment-zh/",
+  "sources": [
+   {
+    "title": "European Commission employed worker in Estonia",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/employed-worker-estonia_en"
+   },
+   {
+    "title": "Estonian Aliens Act",
+    "url": "https://www.riigiteataja.ee/en/tolge/pdf/506012026003"
+   },
+   {
+    "title": "Statistics Estonia average monthly gross wages and salaries",
+    "url": "https://www.stat.ee/en/find-statistics/statistics-theme/work-life/wages-and-salaries-and-labour-costs/average-monthly-gross-wages-and-salaries"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "芬兰",
+  "country_slug": "finland",
+  "programme": "芬兰企业家和初创许可替代路线",
+  "slug": "finland-entrepreneur-startup-permit",
+  "route_type": "self-employed",
+  "audience": "自雇专业人士",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/finland-entrepreneur-startup-permit-zh/",
+  "sources": [
+   {
+    "title": "Finnish Immigration Service entrepreneur permit",
+    "url": "https://migri.fi/en/entrepreneur"
+   },
+   {
+    "title": "Finnish Immigration Service startup entrepreneur permit",
+    "url": "https://migri.fi/en/start-up-entrepreneur"
+   },
+   {
+    "title": "Finnish Immigration Service work-based income requirement",
+    "url": "https://migri.fi/en/working-in-finland/income-requirement"
+   },
+   {
+    "title": "Finnish Tax Administration prepayment register",
+    "url": "https://www.vero.fi/en/businesses-and-corporations/business-operations/tax-administrations-registers--business/prepayment-register/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "芬兰",
+  "country_slug": "finland",
+  "programme": "芬兰欧盟蓝卡",
+  "slug": "finland-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 3,937 monthly",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/finland-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "Finnish Immigration Service EU Blue Card",
+    "url": "https://migri.fi/en/eu-blue-card"
+   },
+   {
+    "title": "Finnish Immigration Service income requirement for work",
+    "url": "https://migri.fi/en/working-in-finland/income-requirement"
+   },
+   {
+    "title": "Finnish Immigration Service period of residence requirement",
+    "url": "https://migri.fi/en/period-of-residence-requirement"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "芬兰",
+  "country_slug": "finland",
+  "programme": "芬兰专家居留许可",
+  "slug": "finland-specialist-residence-permit",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 3,937 monthly",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/finland-specialist-residence-permit-zh/",
+  "sources": [
+   {
+    "title": "Finnish Immigration Service specialist residence permit",
+    "url": "https://migri.fi/en/specialist"
+   },
+   {
+    "title": "Finnish Immigration Service income requirement for work",
+    "url": "https://migri.fi/en/working-in-finland/income-requirement"
+   },
+   {
+    "title": "Finnish Immigration Service fast track for specialists",
+    "url": "https://migri.fi/en/fast-track-for-specialist"
+   },
+   {
+    "title": "Finnish Immigration Service permanent residence permit",
+    "url": "https://migri.fi/en/permanent-residence-permit"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "法国",
+  "country_slug": "france",
+  "programme": "法国创业者 / 自由职业签证替代路线",
+  "slug": "france-entrepreneur-profession-liberale-visa",
+  "route_type": "self-employed",
+  "audience": "自雇专业人士",
+  "family": "家庭规则需核查",
+  "pr": "可能通向永居",
+  "threshold": "EUR 1,867.02 monthly",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/france-entrepreneur-profession-liberale-visa-zh/",
+  "sources": [
+   {
+    "title": "France-Visas self employed person or liberal activity",
+    "url": "https://www.france-visas.gouv.fr/en/activite-non-salariee-ou-liberale"
+   },
+   {
+    "title": "Service-Public entrepreneur / liberal profession residence card",
+    "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35795?lang=en"
+   },
+   {
+    "title": "Business France entrepreneur / liberal profession status",
+    "url": "https://welcome.businessfrance.fr/en/setting-up-a-business/recruiting-international-talent/visas-and-residence-permits/status-of-foreign-company-directors/entrepreneur-liberal-profession/"
+   },
+   {
+    "title": "France-Visas international talents",
+    "url": "https://france-visas.gouv.fr/en/web/france-visas/talents-internationaux-et-attractivite-economique"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "法国",
+  "country_slug": "france",
+  "programme": "法国 EU Blue Card",
+  "slug": "france-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 59,373 annual",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/france-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "Service-Public talent residence card",
+    "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16922?lang=en"
+   },
+   {
+    "title": "France-Visas international talents",
+    "url": "https://france-visas.gouv.fr/en/web/france-visas/talents-internationaux-et-attractivite-economique"
+   },
+   {
+    "title": "Business France Talent EU Blue Card",
+    "url": "https://welcome.businessfrance.fr/en/setting-up-a-business/recruiting-international-talent/visas-and-residence-permits/hiring-foreign-employee/talent-blue-card/"
+   },
+   {
+    "title": "Legifrance talent legal provisions",
+    "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000042776771/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "法国",
+  "country_slug": "france",
+  "programme": "法国 Talent Qualified Employee",
+  "slug": "france-talent-qualified-employee",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 39,582 annual",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/france-talent-qualified-employee-zh/",
+  "sources": [
+   {
+    "title": "Service-Public talent residence card",
+    "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16922?lang=en"
+   },
+   {
+    "title": "France-Visas international talents",
+    "url": "https://france-visas.gouv.fr/en/web/france-visas/talents-internationaux-et-attractivite-economique"
+   },
+   {
+    "title": "Legifrance reference salary order",
+    "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052158119"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "德国",
+  "country_slug": "germany",
+  "programme": "德国欧盟蓝卡",
+  "slug": "germany-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 50,700 annual",
+  "verified": "2026-10-25",
+  "overview": "| 项目 | 当前规则 | 法律基础 | Residence Act Section 18g | 主要对象 | 外国高校毕业生和具有同等资质水平的人 | 工作 offer | 德国境内至少 6 个月的具体合格就业 | 2026 常规工资门槛 | EUR 50,700 gross annual salary | 2026 较低门槛 | 紧缺职业和新毕业生为 EUR 45,934.20，需 Federal Employment Agency 批准 | 无学位 IT 路线 | 某些 IT 专业人士可凭最近 7 年中至少 3 年相关 akademic-level 经验申请 | 有效期 | 合同期加 6 个月，最长 4 年 | 家庭 | 配偶和子女可随行， skilled workers 规则较便利 | 永居 | 满足条件时，可在 27 个月后申请；有 B1 德语可在 21 个月后申请 | 换工作 | 不需要事先许可，但前 12 个月主管机关可审查或反对",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/germany-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "European Commission EU Blue Card",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card_en"
+   },
+   {
+    "title": "Make it in Germany EU Blue Card",
+    "url": "https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card?hl=en-US"
+   },
+   {
+    "title": "Residence Act Section 18g EU Blue Card",
+    "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html"
+   },
+   {
+    "title": "Make it in Germany settlement permit",
+    "url": "https://www.make-it-in-germany.com/en/visa-residence/living-permanently/settlement-permit"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "德国",
+  "country_slug": "germany",
+  "programme": "德国自由职业和自雇签证替代路线",
+  "slug": "germany-freelance-self-employment-visa",
+  "route_type": "self-employed",
+  "audience": "自雇专业人士",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-25",
+  "overview": "| 项目 | 当前规则 | 专门数字游民签证 | 无 | 主要替代路线 | 自雇或自由职业居留许可 | 法律基础 | 官方指引所述 Residence Act Section 21 | 自由职业路线 | 足够资金、能够维持生活、必要时有专业许可 | 商业自雇路线 | 经济利益或地区需求、积极经济影响、融资有保障 | 创业资助准备路径 | 第 21 条第 2b 款：符合条件的专业人才获得德国公共机构或科研机构的创业资助，可获最长 18 个月许可 | Age 45+ | 可能需要足够养老准备 | 初始期限 | 最长 3 年 | 延期 | 活动成功且生活成本得到覆盖时可延期 | 永居 | 创业者可能有 3 年永居路径；自由职业者通常按 5 年周期理解 | 费用信号 | 居留许可最高 EUR 100；永居许可最高 EUR 147",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/germany-freelance-self-employment-visa-zh/",
+  "sources": [
+   {
+    "title": "Make it in Germany visa for self-employment",
+    "url": "https://www.make-it-in-germany.com/en/visa-residence/types/other/self-employment"
+   },
+   {
+    "title": "Make it in Germany visa for freelance business",
+    "url": "https://www.make-it-in-germany.com/en/working-in-germany/setting-up-business/visa/freelance"
+   },
+   {
+    "title": "Federal Foreign Office visas for Germany",
+    "url": "https://www.auswaertiges-amt.de/en/visa-service/215870-215870"
+   },
+   {
+    "title": "Residence Act Section 21 self-employment",
+    "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__21.html"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "希腊",
+  "country_slug": "greece",
+  "programme": "希腊受雇工作居留许可",
+  "slug": "greece-dependent-employment-residence-permit",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 920 monthly",
+  "verified": "2026-10-26",
+  "overview": "适合普通希腊全职受雇工作。若岗位薪资高、合同和资格满足高度合格就业逻辑，应同时比较希腊欧盟蓝卡。 劳动部 2026 年雇主邀请指引要求至少 6 个月合同，并列出每名工人 EUR 200 的雇主邀请申请费；Mitos 的 E.4 居留许可清单仍写至少 1 年全职合同。申请前须向受理机关核实适用阶段与期限。居留许可和制卡费用分别为 EUR 150 和 EUR 16。",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/greece-dependent-employment-residence-permit-zh/",
+  "sources": [
+   {
+    "title": "Mitos E.4 residence permit following approved invitation for dependent employment",
+    "url": "https://en.mitos.gov.gr/index.php/%CE%94%CE%94%3AResidence_permit_following_approval_of_an_invitation_for_dependent_employment_%E2%80%93_Initial_granting_%28%E2%80%98E.4%E2%80%99%29"
+   },
+   {
+    "title": "Ministry of Labour work for third-country nationals in Greece",
+    "url": "https://ypergasias.gov.gr/en/labour-relations/individual-employment-relations/work-for-third-country-nationals-in-greece/"
+   },
+   {
+    "title": "Greek Government minimum wage announcement 2026",
+    "url": "https://www.government.gov.gr/nea-afxisi-katotatou-misthou-ena-akomi-simantiko-vima-gia-ti-dievrinsi-tou-diathesimou-eisodimatos-ergazomenon/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "希腊",
+  "country_slug": "greece",
+  "programme": "希腊数字游民签证",
+  "slug": "greece-digital-nomad-visa",
+  "route_type": "digital-nomad",
+  "audience": "远程雇员或自由职业者",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 3,500 monthly",
+  "verified": "2026-10-26",
+  "overview": "核心条件是税后 EUR 3,500/月收入、希腊境外工作来源、保险和不得服务希腊雇主/客户。家庭成员会提高收入要求，且通常不能在希腊工作。",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/greece-digital-nomad-visa-zh/",
+  "sources": [
+   {
+    "title": "Greek MFA digital nomad visa page",
+    "url": "https://www.mfa.gr/en/services/working-in-greece-as-a-digital-nomad/"
+   },
+   {
+    "title": "Greek Decentralized Administration digital nomad FAQ",
+    "url": "https://e-dm.gov.gr/allodapoi-metanastefsi/"
+   },
+   {
+    "title": "Greek MFA digital nomad consular guidance",
+    "url": "https://www.mfa.gr/uk/en/greece-welcomes-digital-nomads/"
+   },
+   {
+    "title": "Greek Migration Code, official Government Gazette PDF",
+    "url": "https://migration.gov.gr/wp-content/uploads/2023/04/%CE%9A%CF%8E%CE%B4%CE%B9%CE%BA%CE%B1%CF%82-%CE%9C%CE%B5%CF%84%CE%B1%CE%BD%CE%AC%CF%83%CF%84%CE%B5%CF%85%CF%83%CE%B7%CF%82.pdf"
+   },
+   {
+    "title": "Ministry of Migration legal migration applications",
+    "url": "https://migration.gov.gr/en/applications-legal/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "希腊",
+  "country_slug": "greece",
+  "programme": "希腊欧盟蓝卡",
+  "slug": "greece-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 31,918.83 annual",
+  "verified": "2026-10-26",
+  "overview": "申请通常围绕至少 6 个月的高度合格就业合同、薪资达到希腊平均年毛薪 1.6 倍、资格证明和雇主文件。公开门槛信号提交前必须复核。 2026 年第 5275 号法律把欧盟蓝卡通常有效期改为 3 年，每次续签 3 年；合同较短时为合同期限加 3 个月，最长仍为 3 年。欧盟移民门户中的旧两年说明应以新法律为准。",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/greece-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "Mitos E.1 highly qualified employee residence permit",
+    "url": "https://en.mitos.gov.gr/index.php/%CE%94%CE%94%3AResidence_permit_of_a_highly_qualified_employee_%28%E2%80%98E.1%E2%80%99%29_following_admission_with_a_uniform_visa_or_visa-free_regime_%E2%80%93_Initial_granting"
+   },
+   {
+    "title": "European Commission EU Blue Card in Greece",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card/eu-blue-card-greece_en"
+   },
+   {
+    "title": "Migration Code Law 5038/2023",
+    "url": "https://migration.gov.gr/en/nomothesia-1-2/nomothesia-ypiresia-nomimis-metanasteysis/"
+   },
+   {
+    "title": "Greek Law 5275/2026 Article 19 Blue Card validity",
+    "url": "https://migration.gov.gr/wp-content/uploads/2026/02/%CE%A6%CE%95%CE%9A%CE%9117_6.2.2025.pdf"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "希腊",
+  "country_slug": "greece",
+  "programme": "希腊黄金签证",
+  "slug": "greece-golden-visa",
+  "route_type": "residence-by-investment",
+  "audience": "希望通过投资获得居留",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "250,000+",
+  "verified": "2026-10-26",
+  "overview": "多数普通房产申请现在应从 EUR 800,000 或 EUR 400,000 门槛判断。EUR 250,000 通常只适用于更窄的特殊房产类别。该路线不授予希腊就业权，也不是投资入籍。 普通门槛通常须由单一房产满足；对已建成或已有建筑许可的房产，主要用途面积至少 120 平方米。特殊投资类别应另查各自条件。",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/greece-golden-visa-zh/",
+  "sources": [
+   {
+    "title": "Greek Ministry of Migration Golden Visa documents",
+    "url": "https://migration.gov.gr/en/golden-visa/"
+   },
+   {
+    "title": "Greek housing policy portal Golden Visa threshold update",
+    "url": "https://stegasi.gov.gr/programs/afxisi-oriou-elachistis-ependysis-se-akinita-gia-apoktisi-golden-visa/"
+   },
+   {
+    "title": "MITOS Golden Visa timeshare initial issuance",
+    "url": "https://en.mitos.gov.gr/index.php/%CE%94%CE%94%3AGolden_visa_%28timeshare%29_%E2%80%93_Initial_issuance"
+   },
+   {
+    "title": "MITOS Golden Visa listed real property initial issuance",
+    "url": "https://en.mitos.gov.gr/index.php/%CE%94%CE%94%3AGolden_visa_programme_%28investment_in_a_listed_real_property%29_%E2%80%93_Initial_issuance"
+   },
+   {
+    "title": "MITOS Golden Visa change of use initial issuance",
+    "url": "https://en.mitos.gov.gr/index.php/%CE%94%CE%94%3APermanent_golden_visa_%28change_of_use%29_%E2%80%93_Initial_issuance"
+   },
+   {
+    "title": "AADE tax residence for natural persons",
+    "url": "https://www.aade.gr/en/greeks-abroad-non-residents/income-taxation/tax-residence-natural-persons-itc"
+   },
+   {
+    "title": "Greek Ministry of Interior Citizenship Code",
+    "url": "https://www.ypes.gr/kodikas-ellinikis-ithageneias/"
+   },
+   {
+    "title": "Greek Ministry of Migration April 2026 Article 100 circular",
+    "url": "https://diavgeia.gov.gr/doc/%CE%A8%CE%A3%CE%99746%CE%9C%CE%94%CE%A8%CE%9F-%CE%94%CE%A7%CE%9C"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "匈牙利",
+  "country_slug": "hungary",
+  "programme": "匈牙利欧盟蓝卡",
+  "slug": "hungary-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "HUF 1,001,048 monthly",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/hungary-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "NDGAP EU Blue Card factsheet",
+    "url": "https://www.oif.gov.hu/factsheets/eu-blue-card"
+   },
+   {
+    "title": "NDGAP information for employers and host organizations",
+    "url": "https://oif.gov.hu/factsheets/information-for-employers-and-host-organizations"
+   },
+   {
+    "title": "NDGAP EU residence card factsheet",
+    "url": "https://oif.gov.hu/factsheets/eu-residence-card"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "匈牙利",
+  "country_slug": "hungary",
+  "programme": "匈牙利客座投资者",
+  "slug": "hungary-guest-investor",
+  "route_type": "residence-by-investment",
+  "audience": "希望通过投资获得居留",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "250,000+",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/hungary-guest-investor-zh/",
+  "sources": [
+   {
+    "title": "NDGAP residence permit for guest investor",
+    "url": "https://www.oif.gov.hu/factsheets/residence-permit-for-guest-investor"
+   },
+   {
+    "title": "NDGAP visa for guest investors",
+    "url": "https://www.oif.gov.hu/factsheets/visa-for-guest-investors"
+   },
+   {
+    "title": "NDGAP guest investor FAQ",
+    "url": "https://www.oif.gov.hu/factsheets/guest-investor-visa-and-permit-frequently-asked-questions-faq"
+   },
+   {
+    "title": "NDGAP family reunification residence permit",
+    "url": "https://www.oif.gov.hu/factsheets/residence-permit-for-the-purpose-of-family-reunification"
+   },
+   {
+    "title": "NDGAP national residence card",
+    "url": "https://www.oif.gov.hu/factsheets/national-residence-card"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "匈牙利",
+  "country_slug": "hungary",
+  "programme": "匈牙利 Hungarian Card",
+  "slug": "hungary-hungarian-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "家庭规则需核查",
+  "pr": "通常偏临时",
+  "threshold": "",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/hungary-hungarian-card-zh/",
+  "sources": [
+   {
+    "title": "NDGAP Hungarian Card factsheet",
+    "url": "https://oif.gov.hu/factsheets/residence-permit-for-hungarian-card"
+   },
+   {
+    "title": "NDGAP information for employers and host organizations",
+    "url": "https://oif.gov.hu/factsheets/information-for-employers-and-host-organizations"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "匈牙利",
+  "country_slug": "hungary",
+  "programme": "匈牙利白卡",
+  "slug": "hungary-white-card",
+  "route_type": "digital-nomad",
+  "audience": "远程雇员或自由职业者",
+  "family": "家庭规则需核查",
+  "pr": "通常偏临时",
+  "threshold": "EUR 3,000 monthly",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/hungary-white-card-zh/",
+  "sources": [
+   {
+    "title": "NDGAP White Card residency for digital nomads",
+    "url": "https://oif.gov.hu/factsheets/white-card-residency-for-digital-nomads"
+   },
+   {
+    "title": "NDGAP procedural fees",
+    "url": "https://www.oif.gov.hu/index.php/factsheets/procedural-fees"
+   },
+   {
+    "title": "NAV general information for foreign citizens",
+    "url": "https://nav.gov.hu/en/taxation/taxpayer_registration/general-information-for-foreign-citizens-new"
+   },
+   {
+    "title": "NAV double taxation treaties of Hungary",
+    "url": "https://nav.gov.hu/en/taxation/double_taxation_treaties"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "冰岛",
+  "country_slug": "iceland",
+  "programme": "冰岛短期居留许可替代路径",
+  "slug": "iceland-short-term-residence-permit",
+  "route_type": "other",
+  "audience": "该国特定替代路线",
+  "family": "家庭规则需核查",
+  "pr": "通常偏临时",
+  "threshold": "ISK 259,951 monthly",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/iceland-short-term-residence-permit-zh/",
+  "sources": [
+   {
+    "title": "Ísland.is short-term residence permit application",
+    "url": "https://island.is/en/short-term-residence-permit"
+   },
+   {
+    "title": "Ísland.is short-term residence permit requirements",
+    "url": "https://island.is/en/short-term-residence-permit/requirements"
+   },
+   {
+    "title": "Ísland.is short-term residence permit rights and obligations",
+    "url": "https://island.is/en/short-term-residence-permit/rights-and-obligations"
+   },
+   {
+    "title": "Directorate of Immigration visa services transferred notice",
+    "url": "https://island.is/en/o/directorate-of-immigration/news/visa-services-transferred-to-the-ministry-for-foreign-affairs"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "爱尔兰",
+  "country_slug": "ireland",
+  "programme": "爱尔兰 Critical Skills Employment Permit",
+  "slug": "ireland-critical-skills-employment-permit",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 40,904 annual",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/ireland-critical-skills-employment-permit-zh/",
+  "sources": [
+   {
+    "title": "DETE Critical Skills Employment Permit",
+    "url": "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/critical-skills-employment-permit/"
+   },
+   {
+    "title": "DETE General Employment Permit",
+    "url": "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/general-employment-permit/"
+   },
+   {
+    "title": "European Commission EU Blue Card",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card_en"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "爱尔兰",
+  "country_slug": "ireland",
+  "programme": "爱尔兰 Immigrant Investor Programme",
+  "slug": "ireland-immigrant-investor-programme",
+  "route_type": "residence-by-investment",
+  "audience": "",
+  "family": "",
+  "pr": "",
+  "threshold": "",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/ireland-immigrant-investor-programme-zh/",
+  "sources": [
+   {
+    "title": "Irish Department of Justice closure of Immigrant Investor Programme",
+    "url": "https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/press-releases/minister-harris-announces-closure-of-the-immigrant-investor-programme/"
+   }
+  ],
+  "status": "closed"
+ },
+ {
+  "country": "爱尔兰",
+  "country_slug": "ireland",
+  "programme": "爱尔兰 Start-up Entrepreneur Programme 替代路线",
+  "slug": "ireland-start-up-entrepreneur-programme",
+  "route_type": "startup",
+  "audience": "创业创始人",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "50,000+",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/ireland-start-up-entrepreneur-programme-zh/",
+  "sources": [
+   {
+    "title": "Irish Immigration Service Start-up Entrepreneur Programme",
+    "url": "https://www.irishimmigration.ie/coming-to-work-in-ireland/what-are-my-options-for-working-in-ireland/coming-to-work-for-more-than-90-days/start-up-entrepreneur-programme-step/"
+   },
+   {
+    "title": "Irish Immigration Service required documents for registration",
+    "url": "https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-register-your-immigration-permission-for-the-first-time/required-documents/"
+   },
+   {
+    "title": "Department of Enterprise, Tourism and Employment employment permits",
+    "url": "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/"
+   },
+   {
+    "title": "Irish Revenue registering for tax",
+    "url": "https://www.revenue.ie/en/starting-a-business/registering-for-tax/index.aspx"
+   },
+   {
+    "title": "EU Immigration Portal international service provider in Ireland",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/international-service-provider-ireland_en"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "意大利",
+  "country_slug": "italy",
+  "programme": "意大利数字游民和远程工作者签证",
+  "slug": "italy-digital-nomad-remote-worker-visa",
+  "route_type": "digital-nomad",
+  "audience": "远程雇员或自由职业者",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/italy-digital-nomad-remote-worker-visa-zh/",
+  "sources": [
+   {
+    "title": "Italian Embassy Tripoli 2026 digital nomad checklist",
+    "url": "https://ambtripoli.esteri.it/wp-content/uploads/2026/05/6.-DOC-Nomadi-Digitali-ENG-AR.pdf"
+   },
+   {
+    "title": "Italian Embassy Washington 2026 digital nomad and remote worker checklist",
+    "url": "https://ambwashingtondc.esteri.it/wp-content/uploads/2026/02/Digital-nomad-Remote-Worker-Visa-2026.pdf"
+   },
+   {
+    "title": "Integration Migrants FAQ on digital nomads and remote workers",
+    "url": "https://www.integrazionemigranti.gov.it/en-gb/Ricerca-news/Dettaglio-news/id/3835/Who-are-the-digital-nomads-How-can-they-enter-Italy-"
+   },
+   {
+    "title": "Italy New York consulate digital nomad and remote worker visa",
+    "url": "https://consnewyork.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/visas-to-enter-italy/digital-nomad-remote-worker-visa/"
+   },
+   {
+    "title": "Invest in Italy labour law and immigration",
+    "url": "https://www.investinitaly.gov.it/en/doing-business/labour-law-and-immigration"
+   },
+   {
+    "title": "Ministry of the Interior visa and residence permit page",
+    "url": "https://www.interno.gov.it/it/temi/immigrazione-e-asilo/modalita-dingresso/visto-e-permesso-soggiorno"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "意大利",
+  "country_slug": "italy",
+  "programme": "意大利欧盟蓝卡",
+  "slug": "italy-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/italy-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "Current Italian government EU Blue Card guidance",
+    "url": "https://www.integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/1978/Cose-e-come-si-richiede-la-carta-blue-Ue"
+   },
+   {
+    "title": "Ministry of the Interior EU Blue Card page",
+    "url": "https://libertaciviliimmigrazione.dlci.interno.gov.it/la-carta-blu-ue-art-27quater-dlgs-28698-ingresso-lavoratori-altamente-qualificati"
+   },
+   {
+    "title": "Integration Migrants EU Blue Card reform note",
+    "url": "https://www.integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/3851"
+   },
+   {
+    "title": "European Commission highly-qualified worker in Italy",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/highly-qualified-worker-italy_en"
+   },
+   {
+    "title": "Ministry of Labour work entry in Italy",
+    "url": "https://www.lavoro.gov.it/temi-e-priorita/immigrazione/focus-on/ingresso-e-soggiorno-per-lavoro-in-italia/pagine/ingresso-e-soggiorno-per-lavoro-in-italia"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "意大利",
+  "country_slug": "italy",
+  "programme": "意大利投资者签证",
+  "slug": "italy-investor-visa",
+  "route_type": "residence-by-investment",
+  "audience": "希望通过投资获得居留",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "250,000+",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/italy-investor-visa-zh/",
+  "sources": [
+   {
+    "title": "Investor Visa for Italy official portal",
+    "url": "https://investorvisa.mise.gov.it/index.php/en/home-en/"
+   },
+   {
+    "title": "Investor Visa for Italy policy guidance",
+    "url": "https://investorvisa.mise.gov.it/images/documenti/Investor_Visa_for_Italy_Policy_guidance_ENG_19_07_2021.pdf"
+   },
+   {
+    "title": "Ministry of Enterprises and Made in Italy Investor Visa overview",
+    "url": "https://www.mimit.gov.it/it/impresa/competitivita-e-nuove-imprese/start-up-innovative/programmi"
+   },
+   {
+    "title": "Ministry of the Interior citizenship overview",
+    "url": "https://www.interno.gov.it/it/temi/cittadinanza-e-altri-diritti-civili/cittadinanza"
+   },
+   {
+    "title": "Italian Revenue Agency substitute tax payment note",
+    "url": "https://www1.agenziaentrate.gov.it/servizi/scadenzario/main.php?chi=1883&come=526&cosa=10932&entroil=30-06-2025&op=4&vista=1"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "拉脱维亚",
+  "country_slug": "latvia",
+  "programme": "拉脱维亚欧盟蓝卡",
+  "slug": "latvia-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 2,723 monthly",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/latvia-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "OCMA necessary subsistence",
+    "url": "https://www.pmlp.gov.lv/en/necessary-subsistence-0"
+   },
+   {
+    "title": "OCMA EU Blue Card",
+    "url": "https://www.pmlp.gov.lv/en/eu-blue-card"
+   },
+   {
+    "title": "European Commission highly-qualified worker in Latvia",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/highly-qualified-worker-latvia_en"
+   },
+   {
+    "title": "Latvian Immigration Law",
+    "url": "https://likumi.lv/ta/en/en/id/370622"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "拉脱维亚",
+  "country_slug": "latvia",
+  "programme": "拉脱维亚投资者居留许可",
+  "slug": "latvia-investor-residence-permit",
+  "route_type": "residence-by-investment",
+  "audience": "希望通过投资获得居留",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "50,000+",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/latvia-investor-residence-permit-zh/",
+  "sources": [
+   {
+    "title": "Latvia OCMA share capital investor",
+    "url": "https://www.pmlp.gov.lv/en/share-capital-investor"
+   },
+   {
+    "title": "Latvia OCMA: new Immigration Law takes effect",
+    "url": "https://www.pmlp.gov.lv/en/article/new-immigration-law-takes-effect-key-changes-and-regulations"
+   },
+   {
+    "title": "Latvia OCMA how long residence permit may be issued",
+    "url": "https://www.pmlp.gov.lv/en/how-long-may-residence-permit-be-issued-0"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "拉脱维亚",
+  "country_slug": "latvia",
+  "programme": "拉脱维亚远程工作签证",
+  "slug": "latvia-remote-work-visa",
+  "route_type": "digital-nomad",
+  "audience": "远程雇员或自由职业者",
+  "family": "家庭规则需核查",
+  "pr": "通常偏临时",
+  "threshold": "EUR 4,538 monthly",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/latvia-remote-work-visa-zh/",
+  "sources": [
+   {
+    "title": "OCMA Receiving a long-term visa for remote work",
+    "url": "https://www.pmlp.gov.lv/en/receiving-long-term-visa-remote-work"
+   },
+   {
+    "title": "Immigration Law of Latvia",
+    "url": "https://likumi.lv/ta/en/en/id/370622"
+   },
+   {
+    "title": "MFA Latvia visa application fees",
+    "url": "https://www.mfa.gov.lv/en/visa-application-fees"
+   },
+   {
+    "title": "State Revenue Service residence status guidance",
+    "url": "https://www.vid.gov.lv/lv/rezidences-statusa-noteiksana"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "拉脱维亚",
+  "country_slug": "latvia",
+  "programme": "拉脱维亚就业居留许可",
+  "slug": "latvia-residence-permit-for-employment",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/latvia-residence-permit-for-employment-zh/",
+  "sources": [
+   {
+    "title": "OCMA explains the change",
+    "url": "https://www.pmlp.gov.lv/en/article/new-immigration-law-takes-effect-key-changes-and-regulations"
+   },
+   {
+    "title": "OCMA employment of foreigners",
+    "url": "https://www.pmlp.gov.lv/en/employment-foreigners"
+   },
+   {
+    "title": "State Employment Agency employment of third-country nationals",
+    "url": "https://www.nva.gov.lv/en/employment-third-country-nationals-latvia"
+   },
+   {
+    "title": "OCMA necessary subsistence",
+    "url": "https://www.pmlp.gov.lv/en/necessary-subsistence-0"
+   },
+   {
+    "title": "Latvian Immigration Law",
+    "url": "https://likumi.lv/ta/en/en/id/370622"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "列支敦士登",
+  "country_slug": "liechtenstein",
+  "programme": "列支敦士登居留许可替代路径",
+  "slug": "liechtenstein-residence-permit-alternative",
+  "route_type": "other",
+  "audience": "该国特定替代路线",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/liechtenstein-residence-permit-alternative-zh/",
+  "sources": [
+   {
+    "title": "Migration and Passport Office residing in Liechtenstein",
+    "url": "https://www.llv.li/en/national-administration/migration-and-passport-office/residing-in-liechtenstein"
+   },
+   {
+    "title": "Liechtenstein Government residence in Liechtenstein for gainful employment",
+    "url": "https://www.llv.li/en/national-administration/migration-and-passport-office/residence-in-liechtenstein-for-employment-purposes"
+   },
+   {
+    "title": "Liechtenstein Government residence in Liechtenstein without gainful employment",
+    "url": "https://www.llv.li/en/national-administration/migration-and-passport-office/residence-in-liechtenstein-without-employment"
+   },
+   {
+    "title": "Liechtenstein Government permanent residence permit",
+    "url": "https://www.llv.li/en/national-administration/migration-and-passport-office/permanent-residence-and-establishment"
+   },
+   {
+    "title": "Liechtenstein Tax Administration taxation of natural persons",
+    "url": "https://www.llv.li/en/individuals/taxes/taxes-for-individuals/wealth-and-income-tax"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "立陶宛",
+  "country_slug": "lithuania",
+  "programme": "立陶宛欧盟蓝卡",
+  "slug": "lithuania-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 3,615 monthly",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/lithuania-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "Lithuanian Migration Department 2026 salary benchmarks",
+    "url": "https://migracija.lrv.lt/lt/naujienos/paskelbti-nauji-kalendoriniu-metu-darbo-uzmokescio-dydziai-kgN/"
+   },
+   {
+    "title": "European Commission EU Blue Card in Lithuania",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card/eu-blue-card-lithuania_en"
+   },
+   {
+    "title": "European Commission highly-qualified worker in Lithuania",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/highly-qualified-worker-lithuania_en"
+   },
+   {
+    "title": "State Data Agency main economic and social indicators 2025",
+    "url": "https://vda.lrv.lt/en/news/annual-press-conference-main-economic-and-social-indicators-2025-0k7/"
+   },
+   {
+    "title": "Migration Department residence permit state fees",
+    "url": "https://migracija.lrv.lt/en/services/state-fees-for-services/residence-permits/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "立陶宛",
+  "country_slug": "lithuania",
+  "programme": "立陶宛就业居留许可",
+  "slug": "lithuania-residence-permit-for-employment",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "家庭规则需核查",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/lithuania-residence-permit-for-employment-zh/",
+  "sources": [
+   {
+    "title": "European Commission employed worker in Lithuania",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/employed-worker-lithuania_en"
+   },
+   {
+    "title": "Migration Department work residence permit update",
+    "url": "https://migracija.lrv.lt/en/news/foreigners-who-wish-to-work-in-lithuania-will-have-to-obtain-lithuanian-residence-permits-exceptions-will-only-apply-in-certain-cases/"
+   },
+   {
+    "title": "Employment Service third-country employment information",
+    "url": "https://uzt.lt/darbdaviams/apie-treciuju-saliu-pilieciu-idarbinima/70"
+   },
+   {
+    "title": "Migration Department residence permit state fees",
+    "url": "https://migracija.lrv.lt/en/services/state-fees-for-services/residence-permits/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "立陶宛",
+  "country_slug": "lithuania",
+  "programme": "立陶宛 Startup Visa 替代方案",
+  "slug": "lithuania-startup-visa",
+  "route_type": "startup",
+  "audience": "创业创始人",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/lithuania-startup-visa-zh/",
+  "sources": [
+   {
+    "title": "Startup Lithuania entry to Lithuania",
+    "url": "https://www.startuplithuania.com/entry-to-lithuania/"
+   },
+   {
+    "title": "Startup Lithuania Startup Visa and Startup Employee Visa",
+    "url": "https://www.startuplithuania.com/visaemployee/"
+   },
+   {
+    "title": "Lithuanian State Tax Inspectorate individual activity and business licences",
+    "url": "https://www.vmi.lt/evmi/individuali-veikla-ir-verslo-liudijimai"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "卢森堡",
+  "country_slug": "luxembourg",
+  "programme": "卢森堡欧盟蓝卡",
+  "slug": "luxembourg-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 65,652 annual",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/luxembourg-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "Guichet.lu EU Blue Card for highly qualified third-country workers",
+    "url": "https://guichet.public.lu/en/citoyens/immigration/vivre/non-luxembourg/immigration/pays-tiers/hautement-qualifie/salarie-hautement-qualifie.html"
+   },
+   {
+    "title": "Guichet.lu EU Blue Card mobility to Luxembourg",
+    "url": "https://guichet.public.lu/en/citoyens/immigration/vivre/non-luxembourg/immigration/pays-tiers/hautement-qualifie/travailler-luxembourg/titulaire-carte-europeenne.html"
+   },
+   {
+    "title": "Guichet.lu long-term resident status for third-country nationals",
+    "url": "https://guichet.public.lu/en/citoyens/immigration/vivre/luxembourg/apres-5-ans/ressortissant-tiers/statut-resident-longue-duree-ressortissant-pays-tiers.html"
+   },
+   {
+    "title": "European Commission EU Blue Card in Luxembourg",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card/eu-blue-card-luxembourg_en"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "卢森堡",
+  "country_slug": "luxembourg",
+  "programme": "卢森堡自雇工作者许可替代路径",
+  "slug": "luxembourg-self-employed-worker-permit",
+  "route_type": "self-employed",
+  "audience": "自雇专业人士",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/luxembourg-self-employed-worker-permit-zh/",
+  "sources": [
+   {
+    "title": "Guichet.lu conditions of residence for self-employed third-country workers",
+    "url": "https://guichet.public.lu/en/citoyens/immigration/vivre/non-luxembourg/immigration/pays-tiers/travailleur-independant/independant.html"
+   },
+   {
+    "title": "Guichet.lu business permit application",
+    "url": "https://guichet.public.lu/en/entreprises/creation-developpement/autorisation-etablissement/autorisation-honorabilite/autorisation-etablissement.html"
+   },
+   {
+    "title": "Guichet.lu setting up a business",
+    "url": "https://guichet.public.lu/en/citoyens/life-event/travail/creation-entreprise.html"
+   },
+   {
+    "title": "Guichet.lu social security registration for self-employed persons",
+    "url": "https://guichet.public.lu/en/entreprises/creation-developpement/obligations-fiscales-sociales/securite-sociale/affiliation-independant.html"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "马耳他",
+  "country_slug": "malta",
+  "programme": "马耳他基于功绩的归化入籍",
+  "slug": "malta-citizenship-by-merit",
+  "route_type": "citizenship",
+  "audience": "特殊公民身份路线",
+  "family": "支持家庭成员",
+  "pr": "通常偏临时",
+  "threshold": "",
+  "verified": "2026-10-25",
+  "overview": "严肃分析应从申请人的例外贡献、公共价值、马耳他利益、证据质量、尽职调查、居住事实和长期承诺开始。最终授予仍属主管机关裁量。",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/malta-citizenship-by-merit-zh/",
+  "sources": [
+   {
+    "title": "Community Malta Agency Citizenship by Naturalisation on the Basis of Merit",
+    "url": "https://komunita.gov.mt/wp-content/uploads/2026/02/Citizenship-by-Naturalisation-on-the-Basis-of-Merit.pdf"
+   },
+   {
+    "title": "Laws of Malta S.L. 188.06 merit regulations",
+    "url": "https://legislation.mt/getpdf/68ac0c67d91e441100f8c680"
+   },
+   {
+    "title": "Government press release on Maltese Citizenship Act amendments",
+    "url": "https://www.gov.mt/en/Government/DOI/Press%20Releases/Pages/2025/07/16/PR251293en.aspx"
+   },
+   {
+    "title": "Court of Justice judgment C-181/23 Commission v Malta",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62023CJ0181"
+   },
+   {
+    "title": "Identita passport FAQ",
+    "url": "https://identita.gov.mt/frequently-asked-questions/passport/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "马耳他",
+  "country_slug": "malta",
+  "programme": "马耳他欧盟蓝卡",
+  "slug": "malta-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 34,956 annual",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/malta-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "Identita EU Blue Card",
+    "url": "https://identita.gov.mt/expatriates-unit-main-page/noneu-nationals/employment-related-permits/highly-qualified-individuals/blue-card/"
+   },
+   {
+    "title": "European Commission EU Blue Card in Malta",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card/eu-blue-card-malta_en"
+   },
+   {
+    "title": "Identita non-EU employment FAQ",
+    "url": "https://identita.gov.mt/frequently-asked-questions/expatriates/non-eu-employment/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "马耳他",
+  "country_slug": "malta",
+  "programme": "马耳他 Key Employee Initiative",
+  "slug": "malta-key-employee-initiative",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 45,000 annual",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/malta-key-employee-initiative-zh/",
+  "sources": [
+   {
+    "title": "Identita Key Employee Initiative",
+    "url": "https://identita.gov.mt/expatriates-unit-main-page/noneu-nationals/employment-related-permits/highly-qualified-individuals/key-employee-initiative/"
+   },
+   {
+    "title": "Identita KEI who is eligible",
+    "url": "https://identita.gov.mt/expatriates-unit-main-page/noneu-nationals/employment-related-permits/highly-qualified-individuals/key-employee-initiative/who-is-eligible/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "马耳他",
+  "country_slug": "malta",
+  "programme": "马耳他数字游民居留许可",
+  "slug": "malta-nomad-residence-permit",
+  "route_type": "digital-nomad",
+  "audience": "远程雇员或自由职业者",
+  "family": "支持家庭成员",
+  "pr": "通常偏临时",
+  "threshold": "EUR 42,000 annual",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/malta-nomad-residence-permit-zh/",
+  "sources": [
+   {
+    "title": "Nomad Residence Permit official homepage",
+    "url": "https://nomad.residencymalta.gov.mt/"
+   },
+   {
+    "title": "Nomad Residence Permit FAQs version 14.1",
+    "url": "https://nomad.residencymalta.gov.mt/new-faqs/"
+   },
+   {
+    "title": "Nomad Residence Permit application checklist",
+    "url": "https://nomad.residencymalta.gov.mt/checklist/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "马耳他",
+  "country_slug": "malta",
+  "programme": "马耳他永久居留计划",
+  "slug": "malta-permanent-residence-programme",
+  "route_type": "residence-by-investment",
+  "audience": "希望通过投资获得居留",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "99,000+",
+  "verified": "2026-10-25",
+  "overview": "MPRP 更适合希望获得马耳他长期居留基础、能满足资金和房产要求、并愿意接受严格尽调的人。它不应被理解为自动入籍路线。",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/malta-permanent-residence-programme-zh/",
+  "sources": [
+   {
+    "title": "Residency Malta Agency MPRP page",
+    "url": "https://residencymalta.gov.mt/legal-framework-mprp-2/"
+   },
+   {
+    "title": "Malta Permanent Residence Programme Regulations S.L. 217.26",
+    "url": "https://residencymalta.gov.mt/wp-content/uploads/2025/08/S.L.217.26-Amended-by-LN-310-of-2024_-LN-146-of-2025.pdf"
+   },
+   {
+    "title": "Malta Commissioner for Revenue tax residence",
+    "url": "https://cfr.gov.mt/en/individuals/Pages/Tax-Residence.aspx"
+   },
+   {
+    "title": "Community Malta Agency citizenship by naturalisation",
+    "url": "https://komunita.gov.mt/services/acquisition-of-citizenship/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "马耳他",
+  "country_slug": "malta",
+  "programme": "马耳他 Single Permit",
+  "slug": "malta-single-permit",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/malta-single-permit-zh/",
+  "sources": [
+   {
+    "title": "Identita Single Permit",
+    "url": "https://identita.gov.mt/expatriates-unit-main-page/noneu-nationals/employment-related-permits/single-permit/"
+   },
+   {
+    "title": "Identita Single Permit who is eligible",
+    "url": "https://identita.gov.mt/expatriates-unit-main-page/noneu-nationals/employment-related-permits/single-permit/who-is-eligible/"
+   },
+   {
+    "title": "Jobsplus employing non-EU nationals",
+    "url": "https://jobsplus.gov.mt/find-candidates/non-eu-nationals-tcns"
+   },
+   {
+    "title": "Identita pre-departure course for first-time Single Permit applicants",
+    "url": "https://identita.gov.mt/expatriates-unit-main-page/noneu-nationals/employment-related-permits/single-permit/expatriates-unit-single-permit-pre-departure-course/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "马耳他",
+  "country_slug": "malta",
+  "programme": "马耳他 Specialist Employee Initiative",
+  "slug": "malta-specialist-employee-initiative",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 30,000 annual",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/malta-specialist-employee-initiative-zh/",
+  "sources": [
+   {
+    "title": "Identita Specialist Employee Initiative",
+    "url": "https://identita.gov.mt/expatriates-unit-main-page/noneu-nationals/employment-related-permits/highly-qualified-individuals/specialist-employee-initiative/"
+   },
+   {
+    "title": "Identita SEI who is eligible",
+    "url": "https://identita.gov.mt/expatriates-unit-main-page/noneu-nationals/employment-related-permits/highly-qualified-individuals/specialist-employee-initiative/who-is-eligible/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "黑山",
+  "country_slug": "montenegro",
+  "programme": "黑山投资入籍",
+  "slug": "montenegro-citizenship-by-investment",
+  "route_type": "citizenship",
+  "audience": "",
+  "family": "",
+  "pr": "",
+  "threshold": "",
+  "verified": "2026-10-27",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/montenegro-citizenship-by-investment-zh/",
+  "sources": [
+   {
+    "title": "Montenegro Official Gazette 154/2026, Law on Foreigners amendment, Article 70g",
+    "url": "https://www.sluzbenilist.me/propisi/399225?page=5"
+   },
+   {
+    "title": "Montenegro Government special investment programme financial status at July 31, 2026",
+    "url": "https://www.gov.me/en/documents/f0fd1706-7c5d-4e0c-9910-756f7833d7ed"
+   },
+   {
+    "title": "Government launch of Montenegro investment citizenship programme",
+    "url": "https://www.gov.me/en/article/195254--development-programme-for-acquisition-of-montenegrin-citizenship-by-admission-for-investment-purposes-launched"
+   },
+   {
+    "title": "Government decision press release on economic citizenship",
+    "url": "https://www.gov.me/en/article/193956--cabinet-passes-decision-on-economic-citizenship"
+   },
+   {
+    "title": "European Commission 2023 visa suspension mechanism report",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52023DC0730"
+   },
+   {
+    "title": "European Commission 2025 visa suspension mechanism report",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2025%3A792%3AFIN"
+   }
+  ],
+  "status": "closed"
+ },
+ {
+  "country": "黑山",
+  "country_slug": "montenegro",
+  "programme": "黑山数字游民居留许可",
+  "slug": "montenegro-digital-nomad-residence-permit",
+  "route_type": "digital-nomad",
+  "audience": "远程雇员或自由职业者",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-27",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/montenegro-digital-nomad-residence-permit-zh/",
+  "sources": [
+   {
+    "title": "Digital Nomads Montenegro legal status for nomads",
+    "url": "https://digitalnomads.gov.me/article/legal-status-for-nomads"
+   },
+   {
+    "title": "Ministry of Foreign Affairs visas",
+    "url": "https://www.gov.me/en/article/visas"
+   },
+   {
+    "title": "Government of Montenegro temporary residence",
+    "url": "https://www.gov.me/en/article/temporary-residence"
+   },
+   {
+    "title": "Government of Montenegro permanent residence",
+    "url": "https://www.gov.me/en/article/permanent-residence"
+   },
+   {
+    "title": "Tax Administration tax residence procedure",
+    "url": "https://www.gov.me/clanak/utvrdivanje-rezidentnosti-u-poreske-svrhe"
+   },
+   {
+    "title": "Official Gazette Law on Foreigners amendment 154/2026",
+    "url": "https://www.sluzbenilist.me/propisi/399225"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "黑山",
+  "country_slug": "montenegro",
+  "programme": "黑山欧盟公民投资居留与工作许可",
+  "slug": "montenegro-eu-citizen-investment-residence-work-permit",
+  "route_type": "residence-by-investment",
+  "audience": "希望通过投资获得居留",
+  "family": "支持家庭成员",
+  "pr": "通常偏临时",
+  "threshold": "250,000+",
+  "verified": "2026-10-27",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/montenegro-eu-citizen-investment-residence-work-permit-zh/",
+  "sources": [
+   {
+    "title": "Montenegro Official Gazette 154/2026, amendment Article 10 inserting Article 70g",
+    "url": "https://www.sluzbenilist.me/propisi/399225?page=5"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "荷兰",
+  "country_slug": "netherlands",
+  "programme": "荷兰欧盟蓝卡",
+  "slug": "netherlands-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 5,942 monthly",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/netherlands-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "IND European Blue Card residence permit",
+    "url": "https://ind.nl/en/residence-permits/work/european-blue-card-residence-permit"
+   },
+   {
+    "title": "IND required amounts income requirements",
+    "url": "https://ind.nl/en/required-amounts-income-requirements"
+   },
+   {
+    "title": "IND recognition as sponsor",
+    "url": "https://ind.nl/en/residence-permits/work/apply-for-recognition-as-sponsor"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "荷兰",
+  "country_slug": "netherlands",
+  "programme": "荷兰高技术移民",
+  "slug": "netherlands-highly-skilled-migrant",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 5,942 monthly",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/netherlands-highly-skilled-migrant-zh/",
+  "sources": [
+   {
+    "title": "IND Highly skilled migrant",
+    "url": "https://ind.nl/en/residence-permits/work/highly-skilled-migrant"
+   },
+   {
+    "title": "IND required amounts income requirements",
+    "url": "https://ind.nl/en/required-amounts-income-requirements"
+   },
+   {
+    "title": "IND recognition as sponsor",
+    "url": "https://ind.nl/en/residence-permits/work/apply-for-recognition-as-sponsor"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "荷兰",
+  "country_slug": "netherlands",
+  "programme": "荷兰自雇和初创签证替代路线",
+  "slug": "netherlands-self-employed-startup-visa",
+  "route_type": "self-employed",
+  "audience": "自雇专业人士",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/netherlands-self-employed-startup-visa-zh/",
+  "sources": [
+   {
+    "title": "IND residence permit self-employed person",
+    "url": "https://ind.nl/en/residence-permits/work/residence-permit-self-employed-person"
+   },
+   {
+    "title": "IND residence permit for start-up",
+    "url": "https://ind.nl/en/residence-permits/work/start-up"
+   },
+   {
+    "title": "RVO residence permit for foreign startups",
+    "url": "https://english.rvo.nl/topics/residence-permit-foreign-startups"
+   },
+   {
+    "title": "Business.gov.nl permits for foreign self-employed professionals",
+    "url": "https://business.gov.nl/regulations/work-permit-self-employed-professionals/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "挪威",
+  "country_slug": "norway",
+  "programme": "挪威技术自雇许可替代路径",
+  "slug": "norway-skilled-self-employed-permit",
+  "route_type": "self-employed",
+  "audience": "自雇专业人士",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "NOK 341,373 annual",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/norway-skilled-self-employed-permit-zh/",
+  "sources": [
+   {
+    "title": "UDI skilled workers, self-employed persons with a company in Norway",
+    "url": "https://www.udi.no/en/want-to-apply/work-immigration/skilled-workers/"
+   },
+   {
+    "title": "UDI frequently asked questions about skilled worker permits",
+    "url": "https://www.udi.no/en/answer-pages/answers-skilled-worker/"
+   },
+   {
+    "title": "UDI Regulations residence permit for self-employed persons",
+    "url": "https://www.udiregelverk.no/en/documents/udi-guidelines/udi-2014-009/"
+   },
+   {
+    "title": "Brønnøysund Register Centre registering a sole proprietorship",
+    "url": "https://www.brreg.no/en/sole-proprietorship-2/registering-a-sole-proprietorship/"
+   },
+   {
+    "title": "Norwegian Tax Administration registration obligations for foreign sole proprietors",
+    "url": "https://www.skatteetaten.no/en/business-and-organisation/foreign/registration-obligation/registration-obligations-for-foreign-sole-proprietors/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "波兰",
+  "country_slug": "poland",
+  "programme": "波兰商业活动 / 自雇签证替代路线",
+  "slug": "poland-business-self-employment-visa",
+  "route_type": "self-employed",
+  "audience": "自雇专业人士",
+  "family": "支持家庭成员",
+  "pr": "通常偏临时",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/poland-business-self-employment-visa-zh/",
+  "sources": [
+   {
+    "title": "MOS temporary residence for business activity",
+    "url": "https://www.mos.cudzoziemcy.gov.pl/en/categories-information/possibilities-legalization/non-eu-continued-stay/permit-temporary/activity-business/"
+   },
+   {
+    "title": "MOS business activity introduction",
+    "url": "https://www.mos.cudzoziemcy.gov.pl/en/categories-information/possibilities-legalization/non-eu-continued-stay/permit-temporary/activity-business/introduction/"
+   },
+   {
+    "title": "MOS business activity Q&amp;A",
+    "url": "https://www.mos.cudzoziemcy.gov.pl/en/question-and-answer-database/other-temporary-residence-permits/business/"
+   },
+   {
+    "title": "Biznes.gov.pl business registration guide",
+    "url": "https://biznes.gov.pl/en/portal/001823"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "波兰",
+  "country_slug": "poland",
+  "programme": "波兰欧盟蓝卡",
+  "slug": "poland-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "PLN 160,264.08 annual",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/poland-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "MOS EU Blue Card requirements",
+    "url": "https://www.mos.cudzoziemcy.gov.pl/en/categories-information/possibilities-legalization/non-eu-continued-stay/permit-temporary/work/blue-card/requirements/"
+   },
+   {
+    "title": "MOS EU Blue Card Q&amp;A",
+    "url": "https://www.mos.cudzoziemcy.gov.pl/en/question-and-answer-database/permits-residence-and-work/eu-blue-card/"
+   },
+   {
+    "title": "European Commission EU Blue Card in Poland",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card/eu-blue-card-poland_en"
+   },
+   {
+    "title": "Office for Foreigners long-term EU resident permit",
+    "url": "https://www.gov.pl/web/udsc-en/permit-for-residence-of-a-long-term-eu-resident"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "波兰",
+  "country_slug": "poland",
+  "programme": "波兰临时居留和工作许可",
+  "slug": "poland-temporary-residence-work-permit",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "PLN 4,806 monthly",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/poland-temporary-residence-work-permit-zh/",
+  "sources": [
+   {
+    "title": "MOS temporary residence and work permit introduction",
+    "url": "https://www.mos.cudzoziemcy.gov.pl/en/categories-information/possibilities-legalization/non-eu-continued-stay/permit-temporary/work/permit-uniform/introduction/"
+   },
+   {
+    "title": "MOS temporary residence and work permit Q&amp;A",
+    "url": "https://www.mos.cudzoziemcy.gov.pl/en/question-and-answer-database/permits-residence-and-work/temporary-residence-and-work-permit/"
+   },
+   {
+    "title": "Office for Foreigners MOS information",
+    "url": "https://www.gov.pl/web/udsc-en/information-on-the-launch-of-the-mos-system--a-portal-for-electronic-submission-of-applications-for-residence-permits-in-poland"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "葡萄牙",
+  "country_slug": "portugal",
+  "programme": "葡萄牙 ARI 黄金签证",
+  "slug": "portugal-ari-golden-visa",
+  "route_type": "residence-by-investment",
+  "audience": "希望通过投资获得居留",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "250,000+",
+  "verified": "2026-10-26",
+  "overview": "现行 ARI 更适合被理解为低居住要求的投资居留路线，围绕基金、研究、文化、创造就业或公司资本化展开。它可以支持家庭团聚、申根旅行、永居和后续国籍规划，但 2026 年后的入籍时间线需要重新核对。",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/portugal-ari-golden-visa-zh/",
+  "sources": [
+   {
+    "title": "AIMA residence permit for investment activity",
+    "url": "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-para-investimento-art-90-o-a"
+   },
+   {
+    "title": "AIMA Portal ARI",
+    "url": "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-para-investimento-art-90-o-a/portal-ari"
+   },
+   {
+    "title": "AIMA ARI renewals in the Renewal Portal",
+    "url": "https://aima.gov.pt/pt/noticias/portal-de-renovacoes-aima-disponibiliza-renovacao-de-ari"
+   },
+   {
+    "title": "gov.pt Portuguese nationality request",
+    "url": "https://www.gov.pt/servicos/pedir-a-nacionalidade-portuguesa"
+   },
+   {
+    "title": "Portuguese Tax Authority tax residency rules",
+    "url": "https://info.portaldasfinancas.gov.pt/en/tax-information/getting-started-in-portugal/tax-residency/tax-residency-rules/Pages/default.aspx"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "葡萄牙",
+  "country_slug": "portugal",
+  "programme": "葡萄牙数字游民签证",
+  "slug": "portugal-digital-nomad-visa",
+  "route_type": "digital-nomad",
+  "audience": "远程雇员或自由职业者",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 3,680 monthly",
+  "verified": "2026-10-26",
+  "overview": "核心门槛是最近 3 个月平均月收入至少达到葡萄牙最低工资的 4 倍。2026 年以 EUR 920/月最低工资计算，远程工作收入门槛为 EUR 3,680/月。",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/portugal-digital-nomad-visa-zh/",
+  "sources": [
+   {
+    "title": "AIMA remote work residence permit page",
+    "url": "https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-o-exercicio-de-atividade-profissional-prestada-de-forma-remota-com-visto-de-residencia-para-o-exe"
+   },
+   {
+    "title": "gov.pt Foreigners Act digital nomad visa summary",
+    "url": "https://www2.gov.pt/en/noticias/lei-dos-estrangeiros-pedidos-de-vistos-e-autorizacao-de-residencia-vao-ser-mais-simples"
+   },
+   {
+    "title": "Portugal Government minimum wage 2026 announcement",
+    "url": "https://portugal.gov.pt/en/gc25/communication/news/government-increases-minimum-wage-to-920-euros-in-2026"
+   },
+   {
+    "title": "VFS Portugal UK national visa information",
+    "url": "https://visa.vfsglobal.com/one-pager/portugal/uk/english/index.html"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "葡萄牙",
+  "country_slug": "portugal",
+  "programme": "葡萄牙欧盟蓝卡",
+  "slug": "portugal-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 30,492 annual",
+  "verified": "2026-10-26",
+  "overview": "欧盟蓝卡通常适合高薪葡萄牙雇佣、资格证据完整、雇主能支持 AIMA 文件，且未来欧盟内部流动或家庭规划重要的申请人。",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/portugal-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "AIMA EU Blue Card residence permit",
+    "url": "https://aima.gov.pt/pt/viver/concessao-de-cartao-azul-ue-e-autorizacao-de-residencia-para-titulares-de-cartao-azul-ue-noutro-estado-membro-art-121-o-a-e-segu"
+   },
+   {
+    "title": "European Commission EU Blue Card in Portugal",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card/eu-blue-card-portugal_en"
+   },
+   {
+    "title": "Portugal Government 2025 average monthly gross wages",
+    "url": "https://portugal.gov.pt/en/gc25/communication/news/real-wages-rose-32-in-2025"
+   },
+   {
+    "title": "Diario da Republica Article 121-A",
+    "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2007-67564445-221053318"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "葡萄牙",
+  "country_slug": "portugal",
+  "programme": "葡萄牙高度合格活动居留许可",
+  "slug": "portugal-highly-qualified-activity-residence-permit",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "适合工作确实高度合格、雇主或活动证据强、且葡萄牙国家高技能路线比欧盟蓝卡更直接的案件。",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/portugal-highly-qualified-activity-residence-permit-zh/",
+  "sources": [
+   {
+    "title": "AIMA highly qualified activity residence permit",
+    "url": "https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-atividade-altamente-qualificada-art-90-o"
+   },
+   {
+    "title": "AIMA Tech Visa residence permit",
+    "url": "https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-atividade-altamente-qualificada-exercida-para-empresa-certificada-art-90-o-tech-visa"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "葡萄牙",
+  "country_slug": "portugal",
+  "programme": "葡萄牙受雇工作居留许可",
+  "slug": "portugal-subordinate-work-residence-permit",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 920 monthly",
+  "verified": "2026-10-26",
+  "overview": "这条路线适合普通葡萄牙雇佣。工资必须符合葡萄牙劳动法；2026 年全国最低工资为 EUR 920/月。",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/portugal-subordinate-work-residence-permit-zh/",
+  "sources": [
+   {
+    "title": "AIMA subordinate work residence permit with residence visa",
+    "url": "https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-exercicio-de-atividade-profissional-subordinada-com-visto-de-residencia-art-88-o-n-o-1"
+   },
+   {
+    "title": "DGERT 2026 minimum wage",
+    "url": "https://www.dgert.gov.pt/retribuicao-minima-mensal-garantida-para-2026"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "罗马尼亚",
+  "country_slug": "romania",
+  "programme": "罗马尼亚数字游民签证",
+  "slug": "romania-digital-nomad-visa",
+  "route_type": "digital-nomad",
+  "audience": "远程雇员或自由职业者",
+  "family": "支持家庭成员",
+  "pr": "通常偏临时",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/romania-digital-nomad-visa-zh/",
+  "sources": [
+   {
+    "title": "Romanian Ministry of Foreign Affairs eVisa visa types",
+    "url": "https://eviza.mae.ro/home/TypeOfVisa"
+   },
+   {
+    "title": "Romanian Ministry of Foreign Affairs eVisa supporting documents",
+    "url": "https://eviza.mae.ro/home/SupportingDocuments"
+   },
+   {
+    "title": "Romanian Ministry of Foreign Affairs visa fees",
+    "url": "https://eviza.mae.ro/VisaFees"
+   },
+   {
+    "title": "Romanian Law 22/2022 digital nomad amendments",
+    "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/250498"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "罗马尼亚",
+  "country_slug": "romania",
+  "programme": "罗马尼亚欧盟蓝卡",
+  "slug": "romania-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "RON 9,192 monthly",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/romania-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "GEO 32/2026 on access of foreigners to the Romanian labour market",
+    "url": "https://legislatie.just.ro/Public/DetaliiDocument/309832"
+   },
+   {
+    "title": "WorkinRomania visas and residence",
+    "url": "https://workinromania.gov.ro/workinro/default/vize-si-sedere"
+   },
+   {
+    "title": "Law 44/2026 social insurance budget average gross salary",
+    "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/308863"
+   },
+   {
+    "title": "European Commission EU Blue Card in Romania",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card/eu-blue-card-romania_en"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "罗马尼亚",
+  "country_slug": "romania",
+  "programme": "罗马尼亚工作签证和居留许可",
+  "slug": "romania-work-visa-residence-permit",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "RON 4,325 monthly",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/romania-work-visa-residence-permit-zh/",
+  "sources": [
+   {
+    "title": "WorkinRomania visas and residence",
+    "url": "https://workinromania.gov.ro/workinro/default/vize-si-sedere"
+   },
+   {
+    "title": "GEO 32/2026 on access of foreigners to the Romanian labour market",
+    "url": "https://legislatie.just.ro/Public/DetaliiDocument/309832"
+   },
+   {
+    "title": "Government decision 146/2026 minimum gross salary",
+    "url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0UWAJQDLM8S3J00SPP9LDAJLOY"
+   },
+   {
+    "title": "IGI worker categories for work approvals",
+    "url": "https://igi.mai.gov.ro/categorii-de-lucratorii-pentru-care-se-obtin-avizele-de-munca/"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "斯洛伐克",
+  "country_slug": "slovakia",
+  "programme": "斯洛伐克商业居留许可替代方案",
+  "slug": "slovakia-business-residence-permit",
+  "route_type": "self-employed",
+  "audience": "自雇专业人士",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/slovakia-business-residence-permit-zh/",
+  "sources": [
+   {
+    "title": "Slovak Ministry of Economy foreigners running a business in Slovakia",
+    "url": "https://www.economy.gov.sk/podnikatelske-prostredie/cudzinci-foreigners/foreigners-running-a-business-in-the-slovak-republic"
+   },
+   {
+    "title": "Slovensko.sk entrepreneurship for foreigners",
+    "url": "https://www.slovensko.sk/en/life-situation/life-situation/_entrepreneurship"
+   },
+   {
+    "title": "Slovensko.sk notifying a trade",
+    "url": "https://www.slovensko.sk/en/life-situation/life-situation/_notifying-a-trade"
+   },
+   {
+    "title": "EU Immigration Portal self-employed worker in Slovakia",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/self-employed-worker-slovakia_en"
+   },
+   {
+    "title": "Financial Administration general tax information for businesses",
+    "url": "https://www.financnasprava.sk/en/businesses/taxes-businesses"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "斯洛伐克",
+  "country_slug": "slovakia",
+  "programme": "斯洛伐克欧盟蓝卡",
+  "slug": "slovakia-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 1,944 monthly",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/slovakia-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "IOM Slovakia EU Blue Card",
+    "url": "https://mic.iom.sk/en/residence/temporary-residence/236-modra-karta-eu-2.html"
+   },
+   {
+    "title": "European Commission EU Blue Card in Slovakia",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card/eu-blue-card-slovakia_en"
+   },
+   {
+    "title": "Statistical Office of the SR average monthly wage in 2025",
+    "url": "https://slovak.statistics.sk/wps/portal/ext/products/informationmessages/inf_sprava_detail/e85f8bdc-faf2-4aed-8684-44ed4a839ad2/!ut/p/z1/tVNNc4IwFPwtPXjM5AEB4jE4Clh0RAUll04UUIqCHwyt_76h9eJ0FHtoLklmdvdl39tgjpeYF6LONqLKykLs5D3ixptvutSyFAZgeRq4ZRb_m_5EHPM10V1qLY4KldnsUXnHGVFikRedUAeytNeuqmLBJ0PJ1FfOlCfkyqXe0L1lK7iNUpFqiIikhhRgxJESBITQbWuiNVG_rDOYhw9hV609auxA3cWgyu_ZzOHmB4A9WwdXOYE066vacC059r5oEArn39DHr2gzcMPgPm-P_PCEOxQHYCrKTaMgwBgYLYALKMFMDdwJG2ad30oJl7UWfKBg6IZ_g7P_jhFB_CwrVPyZ6inUW-0kcqi2jaRK_HyKXlJzd6PR85kcsuiSj4rvPyP6B72QbCn2iXLUD7tp6O-Rvjq8vHyBcY0U-4!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Vu/"
+   },
+   {
+    "title": "IOM Slovakia permanent residence",
+    "url": "https://mic.iom.sk/en/residence/permanent-residence.html"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "斯洛伐克",
+  "country_slug": "slovakia",
+  "programme": "斯洛伐克就业临时居留",
+  "slug": "slovakia-temporary-residence-for-employment",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/slovakia-temporary-residence-for-employment-zh/",
+  "sources": [
+   {
+    "title": "IOM Slovakia temporary residence for employment",
+    "url": "https://mic.iom.sk/en/residence/temporary-residence/983-temporary-residence-employment.html"
+   },
+   {
+    "title": "IOM Slovakia employment of foreign nationals",
+    "url": "https://mic.iom.sk/en/work/employment-of-foreign-nationals-in-slovakia.html"
+   },
+   {
+    "title": "IOM Slovakia work permit",
+    "url": "https://mic.iom.sk/en/work/work-permit.html"
+   },
+   {
+    "title": "IOM Slovakia permanent residence",
+    "url": "https://mic.iom.sk/en/residence/permanent-residence.html"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "斯洛文尼亚",
+  "country_slug": "slovenia",
+  "programme": "斯洛文尼亚数字游民许可",
+  "slug": "slovenia-digital-nomad-permit",
+  "route_type": "digital-nomad",
+  "audience": "远程雇员或自由职业者",
+  "family": "支持家庭成员",
+  "pr": "通常偏临时",
+  "threshold": "",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/slovenia-digital-nomad-permit-zh/",
+  "sources": [
+   {
+    "title": "GOV.SI Temporary residence permit for digital nomads",
+    "url": "https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/"
+   },
+   {
+    "title": "GOV.SI Entry and residence",
+    "url": "https://www.gov.si/en/topics/entry-and-residence/"
+   },
+   {
+    "title": "Statistical Office of Slovenia earnings release",
+    "url": "https://www.stat.si/StatWeb/en/News/Index/14332"
+   },
+   {
+    "title": "Financial Administration of Slovenia international taxation",
+    "url": "https://www.fu.gov.si/en/taxes_and_other_duties/areas_of_work/international_taxation"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "斯洛文尼亚",
+  "country_slug": "slovenia",
+  "programme": "斯洛文尼亚欧盟蓝卡",
+  "slug": "slovenia-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 2,536.03 monthly",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/slovenia-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "Employment Service of Slovenia EU Blue Card",
+    "url": "https://www.ess.gov.si/delodajalci/zaposlovanje-tujcev-iz-tretjih-drzav/enotno-dovoljenje/modra-karta-eu/"
+   },
+   {
+    "title": "GOV.SI amendment to the Employment, Self-employment and Work of Foreigners Act",
+    "url": "https://www.gov.si/novice/2025-04-29-spremembe-in-dopolnitve-zakona-o-zaposlovanju-samozaposlovanju-in-delu-tujcev/"
+   },
+   {
+    "title": "Slovenian Official Gazette: 2025 average earnings",
+    "url": "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2026-01-0572"
+   },
+   {
+    "title": "European Commission highly-qualified worker in Slovenia",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/highly-qualified-worker-slovenia_en"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "斯洛文尼亚",
+  "country_slug": "slovenia",
+  "programme": "斯洛文尼亚单一居留和工作许可",
+  "slug": "slovenia-single-residence-and-work-permit",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/slovenia-single-residence-and-work-permit-zh/",
+  "sources": [
+   {
+    "title": "Employment Service of Slovenia single permit",
+    "url": "https://www.ess.gov.si/en/jobseekers/employment-of-non-eu-migrant-workers/work-in-slovenia/single-permit"
+   },
+   {
+    "title": "GOV.SI employment and work of foreign nationals",
+    "url": "https://www.gov.si/en/topics/employment-and-work-of-foreign-nationals/"
+   },
+   {
+    "title": "Employment Service of Slovenia work in Slovenia",
+    "url": "https://www.ess.gov.si/en/jobseekers/employment-of-non-eu-migrant-workers/work-in-slovenia"
+   },
+   {
+    "title": "European Commission employed worker in Slovenia",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/employed-worker-slovenia_en"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "西班牙",
+  "country_slug": "spain",
+  "programme": "西班牙数字游民签证",
+  "slug": "spain-digital-nomad-visa",
+  "route_type": "digital-nomad",
+  "audience": "远程雇员或自由职业者",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "EUR 2,442 monthly",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/spain-digital-nomad-visa-zh/",
+  "sources": [
+   {
+    "title": "Law 14/2013 international telework rules",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-10074"
+   },
+   {
+    "title": "UGE international teleworkers page",
+    "url": "https://ciudadaniaexterior.inclusion.gob.es/web/unidadgrandesempresas/teletrabajadores"
+   },
+   {
+    "title": "UGE international teleworker documentation PDF",
+    "url": "https://ciudadaniaexterior.inclusion.gob.es/documents/d/unidadgrandesempresas/informacion-documentacion-pagina-web-titular-v2"
+   },
+   {
+    "title": "Spain Washington consulate telework visa page",
+    "url": "https://www.exteriores.gob.es/Consulados/washington/en/ServiciosConsulares/Paginas/Consular/Telework-visa.aspx"
+   },
+   {
+    "title": "La Moncloa 2026 minimum wage announcement",
+    "url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20260217-referencia-rueda-de-prensa-ministros.aspx"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "西班牙",
+  "country_slug": "spain",
+  "programme": "西班牙 Golden Visa",
+  "slug": "spain-golden-visa",
+  "route_type": "residence-by-investment",
+  "audience": "",
+  "family": "",
+  "pr": "",
+  "threshold": "",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/spain-golden-visa-zh/",
+  "sources": [
+   {
+    "title": "BOE Organic Law 1/2025",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76"
+   },
+   {
+    "title": "La Moncloa end of Golden Visa enters into force",
+    "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/vivienda-agenda-urbana/Paginas/2025/020425-fin-golden-visa.aspx"
+   },
+   {
+    "title": "Spanish Consulate Manila final filing notice",
+    "url": "https://www.exteriores.gob.es/Consulados/manila/es/Comunicacion/Noticias/Paginas/Articulos/Last-day-for-submitting-applications-at-BLS-of-Residence-Visa-for-Investors.aspx"
+   }
+  ],
+  "status": "closed"
+ },
+ {
+  "country": "瑞典",
+  "country_slug": "sweden",
+  "programme": "瑞典欧盟蓝卡",
+  "slug": "sweden-eu-blue-card",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "SEK 53,625 monthly",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/sweden-eu-blue-card-zh/",
+  "sources": [
+   {
+    "title": "Swedish Migration Agency EU Blue Card page",
+    "url": "https://www.migrationsverket.se/en/you-want-to-apply/work/employee-or-self-employed/eu-blue-cards.html"
+   },
+   {
+    "title": "Swedish Migration Agency March 2026 labour migration rule changes",
+    "url": "https://www.migrationsverket.se/nyhetsarkiv/nyhetsarkiv/2026-03-19-beslut-om-nya-regler-for-arbetskraftsinvandring.html"
+   },
+   {
+    "title": "European Commission EU Blue Card overview",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card_en"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "瑞典",
+  "country_slug": "sweden",
+  "programme": "瑞典自雇居留许可替代路线",
+  "slug": "sweden-self-employed-residence-permit",
+  "route_type": "self-employed",
+  "audience": "自雇专业人士",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/sweden-self-employed-residence-permit-zh/",
+  "sources": [
+   {
+    "title": "Swedish Migration Agency self-employed people",
+    "url": "https://www.migrationsverket.se/en/you-want-to-apply/work/employee-or-self-employed/self-employed-people.html"
+   },
+   {
+    "title": "Swedish Migration Agency extension for self-employed people",
+    "url": "https://www.migrationsverket.se/en/you-want-to-extend/work/employee-or-self-employed/self-employed-people.html"
+   },
+   {
+    "title": "Swedish Tax Agency starting a business in Sweden",
+    "url": "https://www.skatteverket.se/servicelankar/otherlanguages/englishengelska/businessesandemployers/startingandrunningaswedishbusiness/registeringabusiness/startingabusinessinsweden.4.12815e4f14a62bc048f51be.html"
+   },
+   {
+    "title": "Swedish Tax Agency approval for F-tax",
+    "url": "https://www.skatteverket.se/servicelankar/otherlanguages/englishengelska/businessesandemployers/startingandrunningaswedishbusiness/registeringabusiness/approvalforftax.4.676f4884175c97df4192308.html"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "瑞典",
+  "country_slug": "sweden",
+  "programme": "瑞典工作许可",
+  "slug": "sweden-work-permit",
+  "route_type": "work",
+  "audience": "在该国的技术工作",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "SEK 34,470 monthly",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/sweden-work-permit-zh/",
+  "sources": [
+   {
+    "title": "Swedish Migration Agency work permit page",
+    "url": "https://www.migrationsverket.se/en/you-want-to-apply/work/employee-or-self-employed/employees.html"
+   },
+   {
+    "title": "Swedish Migration Agency salary requirements for work permits",
+    "url": "https://www.migrationsverket.se/en/word-explanations/salary-requirements-for-a-work-permit.html"
+   },
+   {
+    "title": "Swedish Migration Agency employer work permit page",
+    "url": "https://www.migrationsverket.se/en/employers/you-want-to-employ/employing-someone-from-outside-the-eu-eea/employment/employment.html"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "瑞士",
+  "country_slug": "switzerland",
+  "programme": "瑞士自雇工作许可替代方案",
+  "slug": "switzerland-self-employed-work-permit",
+  "route_type": "self-employed",
+  "audience": "自雇专业人士",
+  "family": "支持家庭成员",
+  "pr": "可能通向永居",
+  "threshold": "",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/switzerland-self-employed-work-permit-zh/",
+  "sources": [
+   {
+    "title": "ch.ch working in Switzerland as a foreign national",
+    "url": "https://www.ch.ch/en/work/working-in-switzerland-as-a-foreign-national/"
+   },
+   {
+    "title": "SEM basis for admission to the Swiss employment market",
+    "url": "https://www.sem.admin.ch/sem/en/home/themen/arbeit/nicht-eu_efta-angehoerige/grundlagen_zur_arbeitsmarktzulassung.html"
+   },
+   {
+    "title": "SEM FAQ on free movement of persons",
+    "url": "https://www.sem.admin.ch/sem/en/home/themen/fza_schweiz-eu-efta/eu-efta_buerger_schweiz/faq.html"
+   },
+   {
+    "title": "SME Portal self-employment guidelines",
+    "url": "https://www.kmu.admin.ch/en/self-employment-guidelines"
+   },
+   {
+    "title": "SME Portal sole proprietorship legal form",
+    "url": "https://www.kmu.admin.ch/en/legal-form-sole-proprietorships"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "土耳其",
+  "country_slug": "turkiye",
+  "programme": "土耳其投资入籍",
+  "slug": "turkiye-citizenship-by-investment",
+  "route_type": "citizenship",
+  "audience": "特殊公民身份路线",
+  "family": "支持家庭成员",
+  "pr": "通常偏临时",
+  "threshold": "400,000+",
+  "verified": "2026-10-26",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/turkiye-citizenship-by-investment-zh/",
+  "sources": [
+   {
+    "title": "Invest in Turkiye acquiring property and citizenship",
+    "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+   },
+   {
+    "title": "Turkish civil registry citizenship services FAQ",
+    "url": "https://www.nvi.gov.tr/sss-vatandaslik-hizmetleri"
+   }
+  ],
+  "status": "open"
+ },
+ {
+  "country": "英国",
+  "country_slug": "united-kingdom",
+  "programme": "UK Tier 1 Investor Visa",
+  "slug": "uk-tier-1-investor-visa",
+  "route_type": "residence-by-investment",
+  "audience": "",
+  "family": "",
+  "pr": "",
+  "threshold": "",
+  "verified": "2026-10-25",
+  "overview": "",
+  "letsmigrate": "https://letsmigrate.org/zh-hans/programmes/uk-tier-1-investor-visa-zh/",
+  "sources": [
+   {
+    "title": "GOV.UK Tier 1 Investor guidance",
+    "url": "https://www.gov.uk/government/publications/guidance-on-application-for-uk-visa-as-tier-1-investor/tier-1-investor-guidance-accessible-version"
+   }
+  ],
+  "status": "closed"
+ }
+]
