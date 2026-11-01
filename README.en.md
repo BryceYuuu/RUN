@@ -9,3 +9,10 @@
 > **Not legal, tax or immigration advice.** Rules change constantly; always verify on official government websites.
 
 Licence: docs CC BY-SA 4.0, scripts MIT.
+
+## ❤️ Sponsor
+
+If this project helps you, consider sponsoring to support ongoing maintenance:
+
+- [GitHub Sponsors](https://github.com/sponsors/BryceYuuu) (card / PayPal)
+- [Afdian 爱发电](https://afdian.com/a/bryce) (WeChat Pay / Alipay)
