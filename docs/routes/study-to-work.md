@@ -33,7 +33,7 @@ flowchart LR
 | 🇦🇹 [奥地利](../europe/austria.md) | 毕业找工作居留 | **12 个月** | 之后转红白红卡 |
 | 🇮🇹 [意大利](../europe/italy.md) | 毕业求职/创业居留 | **12 个月** | |
 | 🇪🇸 [西班牙](../europe/spain.md) | 毕业求职居留 | **12 个月**（部分资料称 24） | 以领馆/UGE 当年口径为准 |
-| 🇬🇧 [英国](../europe/united-kingdom.md) | Graduate 签证 | 现为 2 年；**2027-01-01 起 18 个月**（博士 3 年） | 不能续，需转 Skilled Worker；名校毕业生还可看 HPI |
+| 🇬🇧 [英国](../europe/united-kingdom.md) | Graduate 签证 | 现为 2 年；**2027-01-01 起 18 个月**（博士 3 年） | 不能续，需转 Skilled Worker；⚠️ **2026-11 定案：学签、毕业生签证、HPI 时间不再计入永居年限** |
 | 🇨🇭 [瑞士](../europe/switzerland.md) | 毕业找工作 | **6 个月** | 第三国国民工作许可仍受配额限制 |
 
 <sub>表中多数数据来自院校和留学服务机构的公开整理，并已与瑞典移民局、Study in Denmark、Migri 等官方页面交叉核对；比利时、捷克、波兰、波罗的海国家等的找工作期限（一般 9–12 个月）尚未逐一核实，申请前请查各国移民局。</sub>
@@ -54,7 +54,7 @@ flowchart LR
 1. **选校时就想好毕业后的路**：德国（公立大学几乎免学费 + 18 个月 + 蓝卡）、芬兰（2 年）、爱尔兰（英语 + 硕士 2 年）、荷兰（英语授课多 + 找工作年）性价比最高。
 2. **学签期间的打工经历和语言**会直接影响毕业后的求职和永居（德国 B1、芬兰语言快速入籍）。
 3. **找工作签证一般不能续**，倒计时开始后要尽早转工作签证。
-4. 读书期间是否计入永居/入籍年限各国规则不同（如芬兰、丹麦的本国学历可缩短永居或入籍年限），规划时单独核对。
+4. 读书期间是否计入永居/入籍年限各国规则不同。**英国 2026-11 定案后，学签和毕业生签证时间完全不计入永居**（如芬兰、丹麦的本国学历可缩短永居或入籍年限），规划时单独核对。
 
 <details><summary>🔗 本页来源</summary>
 
@@ -64,5 +64,6 @@ flowchart LR
 - [MiM-Essay：Post Study Work Visa in Europe 2026](https://www.mim-essay.com/post-study-work-visa-in-europe)
 - [ImpactGrad：Post-Study Work Rights Comparison 2026-27](https://impactgrad.com/post-study-work-rights-comparison-2026-27-uk-vs-us-vs-canada-vs-australia-vs-europe/)
 - [University World News：英国 Graduate Route 缩短](https://www.universityworldnews.com/post.php?story=20251017194959272)
+- [GOV.UK：英国 Earned Settlement 声明（2026-11-02）](https://www.gov.uk/government/speeches/home-secretary-earned-settlement-statement)
 
 </details>

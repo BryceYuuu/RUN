@@ -4,7 +4,7 @@
 
 # 🇨🇦 加拿大 · Canada
 
-![入籍](https://img.shields.io/badge/%E5%85%A5%E7%B1%8D-5%20%E5%B9%B4%E5%86%85%E4%BD%8F%E6%BB%A1%201%2C095%20%E5%A4%A9-0969da) ![双重国籍](https://img.shields.io/badge/%E5%8F%8C%E9%87%8D%E5%9B%BD%E7%B1%8D-%E5%85%81%E8%AE%B8%EF%BC%88%E4%B8%AD%E5%9B%BD%E4%B8%8D%E8%AE%A4%EF%BC%89-0969da) ![主通道](https://img.shields.io/badge/%E4%B8%BB%E9%80%9A%E9%81%93-Express%20Entry-0969da) ![创业签证](https://img.shields.io/badge/%E5%88%9B%E4%B8%9A%E7%AD%BE%E8%AF%81-%E2%9B%94%202026--06--30%20%E6%9A%82%E5%81%9C-0969da)
+![入籍](https://img.shields.io/badge/%E5%85%A5%E7%B1%8D-5%20%E5%B9%B4%E5%86%85%E4%BD%8F%E6%BB%A1%201%2C095%20%E5%A4%A9-0969da) ![双重国籍](https://img.shields.io/badge/%E5%8F%8C%E9%87%8D%E5%9B%BD%E7%B1%8D-%E5%85%81%E8%AE%B8%EF%BC%88%E4%B8%AD%E5%9B%BD%E4%B8%8D%E8%AE%A4%EF%BC%89-0969da) ![主通道](https://img.shields.io/badge/%E4%B8%BB%E9%80%9A%E9%81%93-Express%20Entry%EF%BC%882026--11--03%20%E6%96%B0%E8%A7%84%EF%BC%89-0969da) ![创业签证](https://img.shields.io/badge/%E5%88%9B%E4%B8%9A%E7%AD%BE%E8%AF%81-%E2%9B%94%202026--06--30%20%E6%9A%82%E5%81%9C-0969da)
 
 **积分制移民标杆；定向抽签为主，法语加分大；联邦创业签证已暂停**
 
@@ -19,7 +19,7 @@
 
 <table>
 <tr><td width="25%" valign="top"><sub>💶 生活成本指数（纽约=100）</sub><br><b>61.3 ●●●○○（中国 30.7）</b></td><td width="25%" valign="top"><sub>🏠 房租指数（纽约=100）</sub><br><b>29.1 ●●●●○（中国 9.5）</b></td><td width="25%" valign="top"><sub>🛡️ 安全指数</sub><br><b>54.4 ●●○○○（中国 77.0）</b></td><td width="25%" valign="top"><sub>🛂 护照免签目的地</sub><br><b>181 个（中国 81）</b></td></tr>
-<tr><td width="25%" valign="top"><sub>入籍</sub><br><b>5 年内住满 1,095 天</b></td><td width="25%" valign="top"><sub>双重国籍</sub><br><b>允许（中国不认）</b></td><td width="25%" valign="top"><sub>主通道</sub><br><b>Express Entry</b></td><td width="25%" valign="top"><sub>创业签证</sub><br><b>⛔ 2026-06-30 暂停</b></td></tr>
+<tr><td width="25%" valign="top"><sub>入籍</sub><br><b>5 年内住满 1,095 天</b></td><td width="25%" valign="top"><sub>双重国籍</sub><br><b>允许（中国不认）</b></td><td width="25%" valign="top"><sub>主通道</sub><br><b>Express Entry（2026-11-03 新规）</b></td><td width="25%" valign="top"><sub>创业签证</sub><br><b>⛔ 2026-06-30 暂停</b></td></tr>
 </table>
 
 <sub>数据：Numbeo 2026 年中、Henley Passport Index 2026。● 越多越好。</sub>
@@ -28,7 +28,7 @@
 
 | 路线 | 类型 | 一句话 | 状态 |
 |---|---|---|:-:|
-| [Express Entry 快速通道](#ca-ee) | 🧑‍💻 技术工作 | CRS 打分池，按类别定期抽签，获邀后约 6 个月拿永居。 | 🟢 开放 |
+| [Express Entry 快速通道](#ca-ee) | 🧑‍💻 技术工作 | CRS 打分池，按类别定期抽签，获邀后约 6 个月拿永居；2026-11-03 起加拿大工作经验和高薪职业 offer 可加更多分，offer 不再需要 LMIA。 | 🟢 开放 |
 | [省提名 PNP](#ca-pnp) | 🧑‍💻 技术工作 | 各省按需求提名，获提名后 Express Entry 加 600 分。 | 🟢 开放 |
 | [联邦创业签证 SUV](#ca-suv) | 🚀 创业 | 2026-06-30 起完全暂停，新的企业家试点规则尚未公布。 | ⛔ 已关闭 |
 
@@ -40,9 +40,10 @@
 
 ![类型](https://img.shields.io/badge/%E7%B1%BB%E5%9E%8B-%E6%8A%80%E6%9C%AF%E5%B7%A5%E4%BD%9C-0f766e) ![状态](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%BC%80%E6%94%BE-2ea44f)
 
-> **CRS 打分池，按类别定期抽签，获邀后约 6 个月拿永居。**
+> **CRS 打分池，按类别定期抽签，获邀后约 6 个月拿永居；2026-11-03 起加拿大工作经验和高薪职业 offer 可加更多分，offer 不再需要 LMIA。**
 
 <table>
+<tr><td width="33%" valign="top"><sub>2026-11-03 新规</sub><br><b>加拿大工作经验或高薪职业 offer（如工程师、电工）加分更多</b></td><td width="33%" valign="top"><sub>工作 offer</sub><br><b>不再需要 LMIA，由 IRCC 直接审核真实性</b></td><td width="33%" valign="top"><sub>已在池中</sub><br><b>分数自动重算，重算期间抽签暂停</b></td></tr>
 <tr><td width="33%" valign="top"><sub>CEC 分数线</sub><br><b>2026 年约 507–523</b></td><td width="33%" valign="top"><sub>法语类</sub><br><b>382–420</b></td><td width="33%" valign="top"><sub>医疗类</sub><br><b>467–475</b></td></tr>
 <tr><td width="33%" valign="top"><sub>省提名加分</sub><br><b>+600</b></td><td width="33%" valign="top"><sub>2026 至 10 月</sub><br><b>已发 13.5 万份邀请</b></td><td width="33%" valign="top"></td></tr>
 </table>
@@ -72,7 +73,8 @@ flowchart LR
 
 > [!WARNING]
 > **注意**
-> - 法语是目前最有效的加分项
+> - 法语仍是最有效的加分项之一
+> - IRCC 正考虑把 CEC、FSW、FST 合并为一个项目（尚未确定）
 
 <sub>[↑ 回到顶部](#top)</sub>
 
@@ -145,6 +147,7 @@ flowchart LR
 
 - **2026–2028 移民水平计划**持续提高法语移民比例（2028 年目标 10.5%）。
 - 法语好是目前进入 Express Entry 最有效的加分项。
+- **2026-11-03 起 CRS 打分新规生效**：加拿大工作经验、高薪职业（如工程师、电工）的工作 offer 可获得更多分数；工作 offer 不再需要 LMIA，由 IRCC 直接审核；池中候选人分数自动重算，重算期间抽签暂停。
 
 ### 入籍
 

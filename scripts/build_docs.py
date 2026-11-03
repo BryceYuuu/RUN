@@ -103,7 +103,7 @@ TAGLINE = {
     'sweden': '2026 起工作许可须达中位工资 90%（SEK 34,470/月）',
     'switzerland': '第三国国民配额 + 优先本地，基本只适合高端人才',
     'turkiye': 'USD 40 万买房可申请入籍（非欧盟护照）',
-    'united-kingdom': '投资移民已关闭；永居拟从 5 年改为 10 年',
+    'united-kingdom': '永居 2026-11 定案改为标准 10 年；学签、毕业生签证不再计入',
 }
 ROUTE = {'digital-nomad': '数字游民', 'work': '技术工作', 'startup': '创业', 'self-employed': '自雇',
          'passive': '被动收入居留', 'residence-by-investment': '投资居留', 'citizenship': '入籍', 'other': '替代路线'}

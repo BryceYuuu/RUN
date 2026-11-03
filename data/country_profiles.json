@@ -53,5 +53,5 @@
  "sweden":         {"col": 65.5, "rent": 20.1, "safety": 52.2, "tax": 52.3, "salary": 46525, "passport": 186, "pr": "约 4 年", "cit": "8 年（2026-06-06 起）", "dual": "✅", "lang": "瑞典语 + 公民考试（新）", "entry": "申根签证"},
  "switzerland":    {"col": 109.8, "rent": 47.9, "safety": 71.9, "tax": 39.7, "salary": null,  "passport": 186, "pr": "10 年（部分 5 年）", "cit": "10 年", "dual": "✅", "lang": "当地语 B1 口语", "entry": "申根签证"},
  "turkiye":        {"col": 40.2, "rent": 12.3, "safety": 58.5, "tax": 40.8, "salary": null,  "passport": 113, "pr": "8 年（长期居留）", "cit": "5 年（投资可直接）", "dual": "✅", "lang": "土耳其语", "entry": "电子签证（e-Visa）"},
- "united-kingdom": {"col": 68.2, "rent": 30.1, "safety": 51.8, "tax": 45,   "salary": null,  "passport": 182, "pr": "5 年（拟改 10 年）", "cit": "永居后 1 年", "dual": "✅", "lang": "英语 B1 + Life in UK", "entry": "英国签证"}
+ "united-kingdom": {"col": 68.2, "rent": 30.1, "safety": 51.8, "tax": 45,   "salary": null,  "passport": 182, "pr": "标准 10 年（高收入 3/5 年，2026-11 定案）", "cit": "永居后 1 年", "dual": "✅", "lang": "英语 B1 + Life in UK", "entry": "英国签证"}
 }

@@ -669,8 +669,8 @@
      "持牌担保雇主"
     ],
     [
-     "永居",
-     "现行 5 年；拟改为 10 年（earned settlement）"
+     "永居（新规）",
+     "标准 10 年；近 5 年有 3 年年薪 ≥ £50,271 为 5 年；≥ £125,141 为 3 年"
     ]
    ],
    "fit": [
@@ -704,6 +704,7 @@
     "肺结核检测（中国申请人需要）"
    ],
    "tips": [
+    "2026-11-02 定案的 Earned Settlement 将从 2026 年 12 月起陆续写入规则，按'作出永居决定当天'的规则审批",
     "2026-04 起按每个发薪期核查工资合规"
    ],
    "sources": [
@@ -721,7 +722,7 @@
    "id": "uk-global-talent",
    "name": "英国全球人才签证（Global Talent）",
    "type": "work",
-   "summary": "科研、数字技术、艺术、设计等领域顶尖或潜力人才，无需雇主，最长 5 年，可快速永居。",
+   "summary": "科研、数字技术、艺术、设计等领域顶尖或潜力人才，无需雇主，最长 5 年；新规下属于'最高人才组'，3 年可申请永居。",
    "facts": [
     [
      "背书",
@@ -791,7 +792,7 @@
     ],
     [
      "永居",
-     "不直接通向，可转其他签证"
+     "❌ 新规下 HPI 时间不计入永居年限"
     ]
    ],
    "fit": [
@@ -823,6 +824,9 @@
      "Fragomen: UK widens HPI",
      "https://www.fragomen.com/insights/uk-widens-access-to-the-high-potential-individual-visa-to-attract-the-worlds-top-graduate-talent-or-mobilityminute.html"
     ]
+   ],
+   "tips": [
+    "转技术工作签证后才开始计算永居年限"
    ]
   }
  ]

@@ -76,7 +76,7 @@
 | 🇸🇮 斯洛文尼亚 | [斯洛文尼亚单一居留和工作许可](../europe/slovenia.md#slovenia-single-residence-and-work-permit) | 普通单一居留和工作许可，换工作须事先书面批准。 | — | ✅ 可带 | ✅ 可能 | 🟢 开放 |
 | 🇩🇪 德国 | [德国机会卡（Chancenkarte）](../europe/germany.md#germany-opportunity-card) | 没有 offer 也能先去德国找工作：积分 ≥6 分，最长 1 年，期间可兼职每周 20 小时。 | — | ⚠️ 需核查 | ⏳ 偏临时 | 🟢 开放 |
 | 🇩🇪 德国 | [德国技术工人签证（§18a / §18b）](../europe/germany.md#germany-skilled-worker-18a-18b) | 有德国 offer 但达不到蓝卡薪资时的主要选择；45 岁以下没有固定薪资门槛，3 年可永居。 | — | ✅ 可带 | ✅ 可能 | 🟢 开放 |
-| 🇬🇧 英国 | [英国全球人才签证（Global Talent）](../europe/united-kingdom.md#uk-global-talent) | 科研、数字技术、艺术、设计等领域顶尖或潜力人才，无需雇主，最长 5 年，可快速永居。 | — | ✅ 可带 | ✅ 可能 | 🟢 开放 |
+| 🇬🇧 英国 | [英国全球人才签证（Global Talent）](../europe/united-kingdom.md#uk-global-talent) | 科研、数字技术、艺术、设计等领域顶尖或潜力人才，无需雇主，最长 5 年；新规下属于'最高人才组'，3 年可申请永居。 | — | ✅ 可带 | ✅ 可能 | 🟢 开放 |
 | 🇬🇧 英国 | [英国高潜力人才签证（HPI）](../europe/united-kingdom.md#uk-hpi) | 全球前约 100 名大学近 5 年毕业生可直接申请 2 年开放工作签证，无需 offer。 | — | ✅ 可带 | ⏳ 偏临时 | 🟢 开放 |
 <!-- /AUTO -->
 
@@ -115,7 +115,7 @@
 |---|---|---|
 | 🇮🇪 爱尔兰 | Critical Skills Employment Permit | EUR 40,904/年（列名职业），2 年后转 Stamp 4 |
 | 🇩🇰 丹麦 | Pay Limit Scheme / 正面清单 / Fast-track | DKK 552,000/年 |
-| 🇬🇧 英国 | Skilled Worker | 永居时年薪 ≥ GBP 41,700 |
+| 🇬🇧 英国 | Skilled Worker | 年薪 ≥ GBP 41,700；永居 2026-11 定案为标准 10 年（≥ £50,271 为 5 年） |
 | 🇨🇭 瑞士 | 配额制工作许可 | 雇主主导，第三国国民门槛高 |
 | 🇳🇴 挪威 | Skilled worker 许可 | 需挪威雇主 offer |
 

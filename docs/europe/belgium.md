@@ -48,7 +48,7 @@
 
 <table>
 <tr><td width="33%" valign="top"><sub>布鲁塞尔</sub><br><b>EUR 4,748/月</b></td><td width="33%" valign="top"><sub>弗拉芒/德语区</sub><br><b>EUR 63,586/年</b></td><td width="33%" valign="top"><sub>瓦隆</sub><br><b>EUR 68,815/年</b></td></tr>
-<tr><td width="33%" valign="top"><sub>合同</sub><br><b>≥6 个月</b></td><td width="33%" valign="top"><sub>有效期</sub><br><b>1–3 年</b></td><td width="33%" valign="top"></td></tr>
+<tr><td width="33%" valign="top"><sub>合同</sub><br><b>≥6 个月</b></td><td width="33%" valign="top"><sub>有效期</sub><br><b>1–3 年</b></td><td width="33%" valign="top"><sub>审理</sub><br><b>移民局 90 天（2026-10 改革，原 120 天）</b></td></tr>
 </table>
 
 <table><tr>
@@ -74,6 +74,10 @@ flowchart LR
 
 - [ ] 劳动合同
 - [ ] 学历证明
+
+> [!WARNING]
+> **注意**
+> - 2026-10 改革后接受电子签名劳动合同，并加强反欺诈审查
 
 <details><summary>🔗 官方来源（4）</summary>
 
