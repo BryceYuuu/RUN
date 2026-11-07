@@ -14,6 +14,7 @@
 ![最新更新](https://img.shields.io/badge/最新更新-2026--11--03-d73a49)
 ![License](https://img.shields.io/badge/内容-CC%20BY--SA%204.0-lightgrey)
 [![English](https://img.shields.io/badge/README-English-blue)](README.en.md)
+[![日本語](https://img.shields.io/badge/README-日本語-blue)](README.ja.md)
 
 **[🧭 我该走哪条路](docs/routes/choose-route.md)** ｜ **[🌏 主要移民地区](docs/global/README.md)** ｜ **[🇪🇺 欧洲 36 国](docs/europe/README.md)** ｜ **[📊 路线对比](docs/europe/README.md#compare)** ｜ **[📑 文件准备](docs/practical/china-documents.md)**
 
