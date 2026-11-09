@@ -232,6 +232,7 @@
 | 🧾 | [税务居民入门](docs/practical/tax-residency.md) | 居留 ≠ 税务居民；183 天规则；各国特殊税制 |
 | ✅ | [落地前 90 天清单](docs/practical/landing-checklist.md) | 住址登记、居留卡、税号、银行、续签时间点 |
 | 🔗 | [资源导航](docs/resources.md) | 官方门户、类似网站、其他润学项目 |
+| 📖 | [社区网页版（run.camp）](https://run.camp/) | 自动同步本仓库的手册，支持章节跳转、全文搜索和手机阅读 |
 | 📊 | [programmes.csv](data/programmes.csv) | 99 条路线的结构化数据，可直接用 Excel 打开 |
 
 ---
