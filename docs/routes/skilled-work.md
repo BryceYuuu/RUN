@@ -121,7 +121,7 @@
 
 ## 实操建议
 
-1. **先找工作，再谈签证**。蓝卡/工作许可都以雇主 offer 为前提，LinkedIn、各国官方求职门户（如德国 Make it in Germany、EURES）是起点。
+1. **先找工作，再谈签证**。蓝卡/工作许可都以雇主 offer 为前提，LinkedIn、各国官方求职门户（如德国 [Make it in Germany](https://www.make-it-in-germany.com/)、[EURES](https://eures.ec.europa.eu/)）是起点；[EuroJobs.ai](https://eurojobs.ai) 汇聚欧洲 28,000+ IT 职位（来自 Greenhouse、Lever、Ashby、Workable 等招聘系统），可按签证担保、远程、国家、薪资范围筛选。
 2. **学历认证尽早做**：德国查 anabin / ZAB，意大利 CIMEA，荷兰 Nuffic 等。
 3. **永居最快的几个**：德国蓝卡（B1 德语 21 个月）、奥地利（21 个月转 Plus 卡）、日本高度人才 80 分（1 年，见全球篇）。
 4. **想入籍**先看各国入籍年限和双重国籍政策（中国不承认双重国籍，入外籍即自动丧失中国国籍）。
