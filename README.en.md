@@ -47,3 +47,7 @@ If this project helps you, consider sponsoring to support ongoing maintenance:
 
 - [GitHub Sponsors](https://github.com/sponsors/BryceYuuu) (card / PayPal)
 - [Afdian 爱发电](https://afdian.com/a/bryce) (WeChat Pay / Alipay)
+
+## Author
+
+Created and maintained by **Bryce Yu (野生Bryce)** · [GitHub](https://github.com/BryceYuuu) · [YouTube](https://www.youtube.com/@humanpatch3)
