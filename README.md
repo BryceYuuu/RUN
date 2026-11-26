@@ -338,3 +338,7 @@ python3 scripts/build_docs.py
 
 - **国内用户**：[爱发电](https://afdian.com/a/bryce)（支持微信 / 支付宝）
 - **海外用户**：[GitHub Sponsors](https://github.com/sponsors/BryceYuuu)
+
+## 作者
+
+由 **Bryce Yu（野生Bryce）** 创建与维护 · [GitHub](https://github.com/BryceYuuu) · [YouTube](https://www.youtube.com/@humanpatch3)
