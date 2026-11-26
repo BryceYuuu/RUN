@@ -50,4 +50,4 @@ If this project helps you, consider sponsoring to support ongoing maintenance:
 
 ## Author
 
-Created and maintained by **Bryce Yu (野生Bryce)** · [GitHub](https://github.com/BryceYuuu) · [YouTube](https://www.youtube.com/@humanpatch3) · [X](https://x.com/humanpatch_)
+Created and maintained by **Bryce Yu (野生Bryce)** · [GitHub](https://github.com/BryceYuuu) · [YouTube](https://www.youtube.com/@humanpatch3) · [X](https://x.com/humanpatch_) · [Threads](https://www.threads.com/@bryceyzy)
