@@ -341,4 +341,4 @@ python3 scripts/build_docs.py
 
 ## 作者
 
-由 **Bryce Yu（野生Bryce）** 创建与维护 · [GitHub](https://github.com/BryceYuuu) · [YouTube](https://www.youtube.com/@humanpatch3)
+由 **Bryce Yu（野生Bryce）** 创建与维护 · [GitHub](https://github.com/BryceYuuu) · [YouTube](https://www.youtube.com/@humanpatch3) · [X](https://x.com/humanpatch_)
